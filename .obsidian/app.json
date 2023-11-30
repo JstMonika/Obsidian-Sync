@@ -1,4 +1,5 @@
 {
-  "attachmentFolderPath": "attachment",
-  "alwaysUpdateLinks": true
+  "attachmentFolderPath": "./",
+  "alwaysUpdateLinks": true,
+  "showUnsupportedFiles": true
 }
