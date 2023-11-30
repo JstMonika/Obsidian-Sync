@@ -128,12 +128,21 @@
                 "file": "Presentation Skills.md"
               }
             }
+          },
+          {
+            "id": "0e481ee264c8e241",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 357.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -149,6 +158,7 @@
   },
   "active": "b8f85f168be98b53",
   "lastOpenFiles": [
+    "Canvas.canvas",
     "Presentation Skills.md",
     "attachments/rs-optimal.png",
     "^1.md",
