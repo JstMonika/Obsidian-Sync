@@ -11,26 +11,6 @@
             "id": "b8f85f168be98b53",
             "type": "leaf",
             "state": {
-              "type": "image",
-              "state": {
-                "file": "attachments/rs-optimal.png"
-              }
-            }
-          },
-          {
-            "id": "6bd42138d1251858",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "attachments/rs-optimal.png"
-              }
-            }
-          },
-          {
-            "id": "e5a43c36818c611d",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
                 "file": "Presentation Skills.md",
@@ -39,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "attachments/rs-optimal.png",
+                "file": "Presentation Skills.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "attachments/rs-optimal.png",
+                "file": "Presentation Skills.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "attachments/rs-optimal.png"
+                "file": "Presentation Skills.md"
               }
             }
           }
@@ -168,13 +147,15 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "70d71edd60fecf4b",
+  "active": "b8f85f168be98b53",
   "lastOpenFiles": [
-    "attachments/靈堂.png",
     "Presentation Skills.md",
+    "attachments/rs-optimal.png",
+    "^1.md",
+    "最新進度.md",
+    "attachments/靈堂.png",
     "靈堂.png",
     "attachments/ps_table_1.md",
-    "attachments/rs-optimal.png",
     "attachments",
     "attachment"
   ]

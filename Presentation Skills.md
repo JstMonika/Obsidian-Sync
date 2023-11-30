@@ -1,7 +1,7 @@
 1. ==聽presentation跟看paper得到的info要一樣==
 2. paper cite
     1. 有沒有人cite
-    2. 有沒有比他更進步的作法
+    2. 有沒有比他更進步的作法 ^1
         1. 有無進步空間
 3. 先稍微描述一下Problem，再進Contribution
     1. 題目大概形狀
@@ -28,4 +28,9 @@
 12. 作者問題
 	1. 論文定義不清 → 提及作者定義不清
 13. Future Work
-	1. ![[靈堂.png]]![[attachments/靈堂.png]]
+	1. 找變形
+	2. 找最新進度 [[#^1]]
+14. 找paper
+	1. 找可以improve的 (open problem)
+	2. 如已有optimal solution就跳過，除非不同意他的optimal solution
+	3. Skip biology related future work.
