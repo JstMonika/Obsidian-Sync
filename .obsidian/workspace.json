@@ -11,11 +11,9 @@
             "id": "b8f85f168be98b53",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Presentation Skills.md",
-                "mode": "source",
-                "source": false
+                "file": "paper/LIPIcs.WABI.2020.15.pdf"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Presentation Skills.md",
+                "file": "paper/LIPIcs.WABI.2020.15.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Presentation Skills.md",
+                "file": "paper/LIPIcs.WABI.2020.15.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Presentation Skills.md"
+                "file": "paper/LIPIcs.WABI.2020.15.pdf"
               }
             }
           },
@@ -156,10 +154,12 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "b8f85f168be98b53",
+  "active": "70d71edd60fecf4b",
   "lastOpenFiles": [
-    "Canvas.canvas",
     "Presentation Skills.md",
+    "paper",
+    "paper/LIPIcs.WABI.2020.15.pdf",
+    "Canvas.canvas",
     "attachments/rs-optimal.png",
     "^1.md",
     "最新進度.md",
