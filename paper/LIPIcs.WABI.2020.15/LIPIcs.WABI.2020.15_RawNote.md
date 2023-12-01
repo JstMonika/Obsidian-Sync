@@ -1,5 +1,5 @@
 ---
-annotation-target: paper/LIPIcs.WABI.2020.15.pdf
+annotation-target: paper/LIPIcs.WABI.2020.15/LIPIcs.WABI.2020.15.pdf
 ---
 
 
@@ -159,3 +159,59 @@ annotation-target: paper/LIPIcs.WABI.2020.15.pdf
 >%%TAGS%%
 >
 ^g529l1wlqwp
+
+
+>%%
+>```annotation-json
+>{"created":"2023-12-01T15:36:53.251Z","updated":"2023-12-01T15:36:53.251Z","document":{"title":"Advancing Divide-And-Conquer Phylogeny Estimation Using Robinson-Foulds Supertrees","link":[{"href":"urn:x-pdf:7eb47a5ba8053f4a386b0bc8b3b8c8c8"},{"href":"vault:/paper/LIPIcs.WABI.2020.15/LIPIcs.WABI.2020.15.pdf"}],"documentFingerprint":"7eb47a5ba8053f4a386b0bc8b3b8c8c8"},"uri":"vault:/paper/LIPIcs.WABI.2020.15/LIPIcs.WABI.2020.15.pdf","target":[{"source":"vault:/paper/LIPIcs.WABI.2020.15/LIPIcs.WABI.2020.15.pdf","selector":[{"type":"TextPositionSelector","start":3639,"end":3661},{"type":"TextQuoteSelector","exact":"Supertree construction","prefix":"ting Applications.1 Introduction","suffix":" (i.e., the combination of a col"}]}]}
+>```
+>%%
+>*%%PREFIX%%ting Applications.1 Introduction%%HIGHLIGHT%% ==Supertree construction== %%POSTFIX%%(i.e., the combination of a col*
+>%%LINK%%[[#^jtppt97rdd|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^jtppt97rdd
+
+
+>%%
+>```annotation-json
+>{"created":"2023-12-01T15:37:24.251Z","updated":"2023-12-01T15:37:24.251Z","document":{"title":"Advancing Divide-And-Conquer Phylogeny Estimation Using Robinson-Foulds Supertrees","link":[{"href":"urn:x-pdf:7eb47a5ba8053f4a386b0bc8b3b8c8c8"},{"href":"vault:/paper/LIPIcs.WABI.2020.15/LIPIcs.WABI.2020.15.pdf"}],"documentFingerprint":"7eb47a5ba8053f4a386b0bc8b3b8c8c8"},"uri":"vault:/paper/LIPIcs.WABI.2020.15/LIPIcs.WABI.2020.15.pdf","target":[{"source":"vault:/paper/LIPIcs.WABI.2020.15/LIPIcs.WABI.2020.15.pdf","selector":[{"type":"TextPositionSelector","start":4106,"end":4166},{"type":"TextQuoteSelector","exact":"can be used as a final step in a divide-and-conquer pipeline","prefix":"e phylogeny estimation, where it","suffix":" [45]: the species set is divide"}]}]}
+>```
+>%%
+>*%%PREFIX%%e phylogeny estimation, where it%%HIGHLIGHT%% ==can be used as a final step in a divide-and-conquer pipeline== %%POSTFIX%%[45]: the species set is divide*
+>%%LINK%%[[#^pfgo8cndh5|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^pfgo8cndh5
+
+
+>%%
+>```annotation-json
+>{"created":"2023-12-01T15:38:04.764Z","updated":"2023-12-01T15:38:04.764Z","document":{"title":"Advancing Divide-And-Conquer Phylogeny Estimation Using Robinson-Foulds Supertrees","link":[{"href":"urn:x-pdf:7eb47a5ba8053f4a386b0bc8b3b8c8c8"},{"href":"vault:/paper/LIPIcs.WABI.2020.15/LIPIcs.WABI.2020.15.pdf"}],"documentFingerprint":"7eb47a5ba8053f4a386b0bc8b3b8c8c8"},"uri":"vault:/paper/LIPIcs.WABI.2020.15/LIPIcs.WABI.2020.15.pdf","target":[{"source":"vault:/paper/LIPIcs.WABI.2020.15/LIPIcs.WABI.2020.15.pdf","selector":[{"type":"TextPositionSelector","start":4237,"end":4317},{"type":"TextQuoteSelector","exact":"unrooted leaf-labelled trees are constructed (possiblyrecursively) on each subse","prefix":"wo or more overlapping subsets, ","suffix":"t, and then these subset trees a"}]}]}
+>```
+>%%
+>*%%PREFIX%%wo or more overlapping subsets,%%HIGHLIGHT%% ==unrooted leaf-labelled trees are constructed (possiblyrecursively) on each subse== %%POSTFIX%%t, and then these subset trees a*
+>%%LINK%%[[#^8ni3lr14slc|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>#questions
+^8ni3lr14slc
+
+
+>%%
+>```annotation-json
+>{"created":"2023-12-01T15:44:18.059Z","updated":"2023-12-01T15:44:18.059Z","document":{"title":"Advancing Divide-And-Conquer Phylogeny Estimation Using Robinson-Foulds Supertrees","link":[{"href":"urn:x-pdf:7eb47a5ba8053f4a386b0bc8b3b8c8c8"},{"href":"vault:/paper/LIPIcs.WABI.2020.15/LIPIcs.WABI.2020.15.pdf"}],"documentFingerprint":"7eb47a5ba8053f4a386b0bc8b3b8c8c8"},"uri":"vault:/paper/LIPIcs.WABI.2020.15/LIPIcs.WABI.2020.15.pdf","target":[{"source":"vault:/paper/LIPIcs.WABI.2020.15/LIPIcs.WABI.2020.15.pdf","selector":[{"type":"TextPositionSelector","start":4548,"end":4558},{"type":"TextQuoteSelector","exact":"consistent","prefix":"s can be provably statistically ","suffix":" understochastic models of evolu"}]}]}
+>```
+>%%
+>*%%PREFIX%%s can be provably statistically%%HIGHLIGHT%% ==consistent== %%POSTFIX%%understochastic models of evolu*
+>%%LINK%%[[#^y181kfxvhp|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>#questions
+^y181kfxvhp

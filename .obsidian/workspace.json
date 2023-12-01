@@ -4,20 +4,50 @@
     "type": "split",
     "children": [
       {
-        "id": "e5ad97dc24e39329",
-        "type": "tabs",
+        "id": "682e0b954493264c",
+        "type": "split",
         "children": [
           {
-            "id": "10407b93d5eba701",
-            "type": "leaf",
-            "state": {
-              "type": "pdf-annotator",
-              "state": {
-                "file": "paper/LIPIcs.WABI.2020.15_RawNote.md"
+            "id": "4812d19af7622795",
+            "type": "tabs",
+            "dimension": 64.8936170212766,
+            "children": [
+              {
+                "id": "a0d4aefcdaad22af",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf-annotator",
+                  "state": {
+                    "file": "paper/LIPIcs.WABI.2020.15/LIPIcs.WABI.2020.15_RawNote.md"
+                  }
+                }
               }
-            }
+            ]
+          },
+          {
+            "id": "3377a3466a76d63e",
+            "type": "tabs",
+            "dimension": 35.1063829787234,
+            "children": [
+              {
+                "id": "fed3c22bd867b2ed",
+                "type": "leaf",
+                "state": {
+                  "type": "canvas",
+                  "state": {
+                    "file": "paper/LIPIcs.WABI.2020.15/Canvas.canvas",
+                    "viewState": {
+                      "x": 175,
+                      "y": 249,
+                      "zoom": 0
+                    }
+                  }
+                }
+              }
+            ]
           }
-        ]
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -83,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "paper/LIPIcs.WABI.2020.15_RawNote.md",
+                "file": "paper/LIPIcs.WABI.2020.15/Canvas.canvas",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "paper/LIPIcs.WABI.2020.15_RawNote.md",
+                "file": "paper/LIPIcs.WABI.2020.15/Canvas.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "paper/LIPIcs.WABI.2020.15_RawNote.md"
+                "file": "paper/LIPIcs.WABI.2020.15/Canvas.canvas"
               }
             }
           },
@@ -134,13 +164,26 @@
               "type": "advanced-tables-toolbar",
               "state": {}
             }
+          },
+          {
+            "id": "f52942bbb73b638f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "paper/LIPIcs.WABI.2020.15/LIPIcs.WABI.2020.15_Note.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 357.5,
-    "collapsed": true
+    "width": 475.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -154,11 +197,14 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "10407b93d5eba701",
+  "active": "70d71edd60fecf4b",
   "lastOpenFiles": [
-    "paper/LIPIcs.WABI.2020.15_Note.md",
-    "paper/LIPIcs.WABI.2020.15_RawNote.md",
-    "paper/LIPIcs.WABI.2020.15.pdf",
+    "paper/LIPIcs.WABI.2020.15/LIPIcs.WABI.2020.15_RawNote.md",
+    "paper/LIPIcs.WABI.2020.15/Canvas.canvas",
+    "未命名.md",
+    "paper/LIPIcs.WABI.2020.15/LIPIcs.WABI.2020.15_Note.md",
+    "paper/LIPIcs.WABI.2020.15/LIPIcs.WABI.2020.15.pdf",
+    "paper/LIPIcs.WABI.2020.15",
     "supertree.md",
     "test.md",
     "attachments/rs-optimal.png",

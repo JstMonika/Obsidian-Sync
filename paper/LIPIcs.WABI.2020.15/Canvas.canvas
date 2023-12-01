@@ -1,0 +1,12 @@
+{
+	"nodes":[
+		{"id":"c945ace3af547381","x":-240,"y":-120,"width":280,"height":60,"type":"text","text":"Species overlapping subsets"},
+		{"id":"5d32ec22420fa283","x":-300,"y":0,"width":280,"height":60,"type":"text","text":"unrooted leaf-labelled trees"},
+		{"id":"b237d5af4ce8deed","x":400,"y":0,"width":250,"height":60,"type":"text","text":"A tree on full dataset."},
+		{"id":"34161d7f6f4563d6","x":-300,"y":120,"width":250,"height":60,"type":"text","text":"optimal supertrees"}
+	],
+	"edges":[
+		{"id":"bd9ecda9aab0b610","fromNode":"5d32ec22420fa283","fromSide":"top","toNode":"c945ace3af547381","toSide":"bottom"},
+		{"id":"e4ce9f66327ae6da","fromNode":"5d32ec22420fa283","fromSide":"right","toNode":"b237d5af4ce8deed","toSide":"left","label":"selected supertree method"}
+	]
+}
