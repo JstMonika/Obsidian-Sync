@@ -133,7 +133,7 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": false
               }
             }
           },
@@ -156,12 +156,11 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 357.5,
-    "collapsed": true
+    "width": 357.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -175,7 +174,7 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "9664140a48f54f80",
+  "active": "c2da6204134870b2",
   "lastOpenFiles": [
     "paper/LIPIcs.WABI.2020.15.pdf",
     "attachments/rs-optimal.png",
