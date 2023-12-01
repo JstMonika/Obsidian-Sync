@@ -215,3 +215,17 @@ annotation-target: paper/LIPIcs.WABI.2020.15/LIPIcs.WABI.2020.15.pdf
 >%%TAGS%%
 >#questions
 ^y181kfxvhp
+
+
+>%%
+>```annotation-json
+>{"created":"2023-12-01T16:17:03.166Z","text":"隨機","updated":"2023-12-01T16:17:03.166Z","document":{"title":"Advancing Divide-And-Conquer Phylogeny Estimation Using Robinson-Foulds Supertrees","link":[{"href":"urn:x-pdf:7eb47a5ba8053f4a386b0bc8b3b8c8c8"},{"href":"vault:/paper/LIPIcs.WABI.2020.15/LIPIcs.WABI.2020.15.pdf"}],"documentFingerprint":"7eb47a5ba8053f4a386b0bc8b3b8c8c8"},"uri":"vault:/paper/LIPIcs.WABI.2020.15/LIPIcs.WABI.2020.15.pdf","target":[{"source":"vault:/paper/LIPIcs.WABI.2020.15/LIPIcs.WABI.2020.15.pdf","selector":[{"type":"TextPositionSelector","start":4564,"end":4575},{"type":"TextQuoteSelector","exact":"stochastic ","prefix":"y statistically consistent under","suffix":"models of evolution: i.e., as th"}]}]}
+>```
+>%%
+>*%%PREFIX%%y statistically consistent under%%HIGHLIGHT%% ==stochastic== %%POSTFIX%%models of evolution: i.e., as th*
+>%%LINK%%[[#^rxjny8ahqfk|show annotation]]
+>%%COMMENT%%
+>隨機
+>%%TAGS%%
+>
+^rxjny8ahqfk
