@@ -33,9 +33,11 @@
             "id": "174530ce7fe46b89",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "paper/LIPIcs.WABI.2020.15.pdf"
+                "file": "Presentation Skills.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -106,6 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Presentation Skills.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,6 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Presentation Skills.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2023-12-01 16.31.26.excalidraw.md"
+                "file": "Presentation Skills.md"
               }
             }
           },
@@ -173,24 +177,23 @@
       "templates:插入模板": false,
       "command-palette:開啟命令面板": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-importer:Open Importer": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-importer:Open Importer": false
     }
   },
   "active": "70d71edd60fecf4b",
   "lastOpenFiles": [
-    "paper/LIPIcs.WABI.2020.15.pdf",
+    "Canvas.canvas",
+    "Presentation Skills.md",
     "Excalidraw/Drawing 2023-12-01 16.31.26.excalidraw.md",
+    "paper/LIPIcs.WABI.2020.15.pdf",
     "test.md",
     "Excalidraw/Drawing 2023-12-01 16.28.03.excalidraw.md",
     "Excalidraw/Drawing 2023-12-01 16.30.19.excalidraw.md",
     "Excalidraw",
-    "Presentation Skills.md",
     "TEST.md",
     "未命名",
     "test_annotator.md",
     "paper",
-    "Canvas.canvas",
     "attachments/rs-optimal.png",
     "^1.md",
     "最新進度.md",
