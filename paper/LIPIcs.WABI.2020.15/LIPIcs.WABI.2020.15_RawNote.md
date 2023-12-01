@@ -372,3 +372,17 @@ annotation-target: paper/LIPIcs.WABI.2020.15/LIPIcs.WABI.2020.15.pdf
 >%%TAGS%%
 >
 ^la41nrncuqm
+
+
+>%%
+>```annotation-json
+>{"created":"2023-12-01T18:46:38.488Z","updated":"2023-12-01T18:46:38.488Z","document":{"title":"Advancing Divide-And-Conquer Phylogeny Estimation Using Robinson-Foulds Supertrees","link":[{"href":"urn:x-pdf:7eb47a5ba8053f4a386b0bc8b3b8c8c8"},{"href":"vault:/paper/LIPIcs.WABI.2020.15/LIPIcs.WABI.2020.15.pdf"}],"documentFingerprint":"7eb47a5ba8053f4a386b0bc8b3b8c8c8"},"uri":"vault:/paper/LIPIcs.WABI.2020.15/LIPIcs.WABI.2020.15.pdf","target":[{"source":"vault:/paper/LIPIcs.WABI.2020.15/LIPIcs.WABI.2020.15.pdf","selector":[{"type":"TextPositionSelector","start":6410,"end":6421},{"type":"TextQuoteSelector","exact":"compatible ","prefix":"ever, if the two input trees are","suffix":"(i.e., there is a supertree that"}]}]}
+>```
+>%%
+>*%%PREFIX%%ever, if the two input trees are%%HIGHLIGHT%% ==compatible== %%POSTFIX%%(i.e., there is a supertree that*
+>%%LINK%%[[#^yqurdpt5koj|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>#questions
+^yqurdpt5koj
