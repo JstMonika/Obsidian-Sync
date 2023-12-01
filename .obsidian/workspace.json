@@ -43,9 +43,9 @@
             "id": "c2f8de6f1362a828",
             "type": "leaf",
             "state": {
-              "type": "pdf-annotator",
+              "type": "pdf",
               "state": {
-                "file": "test.md"
+                "file": "paper/LIPIcs.WABI.2020.15.pdf"
               }
             }
           }
@@ -116,6 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "paper/LIPIcs.WABI.2020.15.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,6 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "paper/LIPIcs.WABI.2020.15.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +155,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "paper/LIPIcs.WABI.2020.15.pdf"
+              }
             }
           },
           {
@@ -186,8 +190,8 @@
   "active": "c2f8de6f1362a828",
   "lastOpenFiles": [
     "test.md",
-    "Presentation Skills.md",
     "paper/LIPIcs.WABI.2020.15.pdf",
+    "Presentation Skills.md",
     "TEST.md",
     "未命名",
     "test_annotator.md",
