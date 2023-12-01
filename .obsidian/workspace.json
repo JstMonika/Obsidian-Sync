@@ -38,7 +38,7 @@
                     "file": "paper/LIPIcs.WABI.2020.15/Canvas.canvas",
                     "viewState": {
                       "x": 175,
-                      "y": 249,
+                      "y": -30,
                       "zoom": 0
                     }
                   }
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "paper/LIPIcs.WABI.2020.15/Canvas.canvas",
+                "file": "paper/LIPIcs.WABI.2020.15/LIPIcs.WABI.2020.15_Note.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "paper/LIPIcs.WABI.2020.15/Canvas.canvas",
+                "file": "paper/LIPIcs.WABI.2020.15/LIPIcs.WABI.2020.15_Note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "paper/LIPIcs.WABI.2020.15/Canvas.canvas"
+                "file": "paper/LIPIcs.WABI.2020.15/LIPIcs.WABI.2020.15_Note.md"
               }
             }
           },
@@ -197,12 +197,12 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "70d71edd60fecf4b",
+  "active": "f52942bbb73b638f",
   "lastOpenFiles": [
-    "paper/LIPIcs.WABI.2020.15/LIPIcs.WABI.2020.15_RawNote.md",
     "paper/LIPIcs.WABI.2020.15/Canvas.canvas",
-    "未命名.md",
     "paper/LIPIcs.WABI.2020.15/LIPIcs.WABI.2020.15_Note.md",
+    "paper/LIPIcs.WABI.2020.15/LIPIcs.WABI.2020.15_RawNote.md",
+    "未命名.md",
     "paper/LIPIcs.WABI.2020.15/LIPIcs.WABI.2020.15.pdf",
     "paper/LIPIcs.WABI.2020.15",
     "supertree.md",
