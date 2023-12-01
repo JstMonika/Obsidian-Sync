@@ -8,16 +8,29 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b8f85f168be98b53",
+            "id": "742efe35b1a85508",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "paper/LIPIcs.WABI.2020.15.pdf"
+                "file": "Presentation Skills.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "195a53e505b960f2",
+            "type": "leaf",
+            "state": {
+              "type": "pdf-annotator",
+              "state": {
+                "file": "Note.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -83,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "paper/LIPIcs.WABI.2020.15.pdf",
+                "file": "Note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "paper/LIPIcs.WABI.2020.15.pdf",
+                "file": "Note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "paper/LIPIcs.WABI.2020.15.pdf"
+                "file": "Note.md"
               }
             }
           },
@@ -154,10 +167,11 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "b8f85f168be98b53",
+  "active": "195a53e505b960f2",
   "lastOpenFiles": [
-    "Presentation Skills.md",
     "paper/LIPIcs.WABI.2020.15.pdf",
+    "Note.md",
+    "Presentation Skills.md",
     "paper",
     "Canvas.canvas",
     "attachments/rs-optimal.png",
