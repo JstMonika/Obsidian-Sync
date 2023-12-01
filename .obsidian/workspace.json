@@ -6,9 +6,27 @@
       {
         "id": "eeae274605b5a9d5",
         "type": "tabs",
+        "dimension": 39.75631768953068,
         "children": [
           {
             "id": "e195a658cd53805b",
+            "type": "leaf",
+            "state": {
+              "type": "pdf-annotator",
+              "state": {
+                "file": "paper/LIPIcs.WABI.2020.15_Note.md"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "0e157ac244557b49",
+        "type": "tabs",
+        "dimension": 60.24368231046932,
+        "children": [
+          {
+            "id": "8ccde7313a4b2ac1",
             "type": "leaf",
             "state": {
               "type": "pdf-annotator",
@@ -63,8 +81,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -141,7 +158,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 357.5
+    "width": 357.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -157,10 +175,11 @@
   },
   "active": "e195a658cd53805b",
   "lastOpenFiles": [
+    "未命名.md",
     "paper/LIPIcs.WABI.2020.15_Note.md",
+    "paper/LIPIcs.WABI.2020.15.pdf",
     "supertree.md",
     "test.md",
-    "paper/LIPIcs.WABI.2020.15.pdf",
     "attachments/rs-optimal.png",
     "Presentation Skills.md",
     "paper",

@@ -129,7 +129,7 @@ annotation-target: paper/LIPIcs.WABI.2020.15.pdf
 >%%COMMENT%%
 >標準
 >%%TAGS%%
->#test
+>
 ^2ybmi0m18wk
 
 
@@ -145,3 +145,17 @@ annotation-target: paper/LIPIcs.WABI.2020.15.pdf
 >%%TAGS%%
 >
 ^5w7845f81w
+
+
+>%%
+>```annotation-json
+>{"created":"2023-12-01T14:41:57.783Z","updated":"2023-12-01T14:41:57.783Z","document":{"title":"Advancing Divide-And-Conquer Phylogeny Estimation Using Robinson-Foulds Supertrees","link":[{"href":"urn:x-pdf:7eb47a5ba8053f4a386b0bc8b3b8c8c8"},{"href":"vault:/paper/LIPIcs.WABI.2020.15.pdf"}],"documentFingerprint":"7eb47a5ba8053f4a386b0bc8b3b8c8c8"},"uri":"vault:/paper/LIPIcs.WABI.2020.15.pdf","target":[{"source":"vault:/paper/LIPIcs.WABI.2020.15.pdf","selector":[{"type":"TextPositionSelector","start":17980,"end":17994},{"type":"TextQuoteSelector","exact":"extra subtrees","prefix":"cept we introduce is the set of ","suffix":", which are rooted subtreesof T1"}]}]}
+>```
+>%%
+>*%%PREFIX%%cept we introduce is the set of%%HIGHLIGHT%% ==extra subtrees== %%POSTFIX%%, which are rooted subtreesof T1*
+>%%LINK%%[[#^g529l1wlqwp|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^g529l1wlqwp
