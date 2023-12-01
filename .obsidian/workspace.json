@@ -4,34 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "eeae274605b5a9d5",
+        "id": "e5ad97dc24e39329",
         "type": "tabs",
-        "dimension": 39.75631768953068,
         "children": [
           {
-            "id": "e195a658cd53805b",
+            "id": "10407b93d5eba701",
             "type": "leaf",
             "state": {
-              "type": "pdf-annotator",
+              "type": "markdown",
               "state": {
-                "file": "paper/LIPIcs.WABI.2020.15_Note.md"
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "0e157ac244557b49",
-        "type": "tabs",
-        "dimension": 60.24368231046932,
-        "children": [
-          {
-            "id": "8ccde7313a4b2ac1",
-            "type": "leaf",
-            "state": {
-              "type": "pdf-annotator",
-              "state": {
-                "file": "paper/LIPIcs.WABI.2020.15_Note.md"
+                "file": "paper/未命名.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -101,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "paper/LIPIcs.WABI.2020.15_Note.md",
+                "file": "paper/未命名.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "paper/LIPIcs.WABI.2020.15_Note.md",
+                "file": "paper/未命名.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "paper/LIPIcs.WABI.2020.15_Note.md"
+                "file": "paper/未命名.md"
               }
             }
           },
@@ -153,13 +138,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 357.5,
-    "collapsed": true
+    "width": 357.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -173,11 +156,11 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "e195a658cd53805b",
+  "active": "10407b93d5eba701",
   "lastOpenFiles": [
-    "未命名.md",
-    "paper/LIPIcs.WABI.2020.15_Note.md",
+    "paper/LIPIcs.WABI.2020.15_RawNote.md",
     "paper/LIPIcs.WABI.2020.15.pdf",
+    "paper/未命名.md",
     "supertree.md",
     "test.md",
     "attachments/rs-optimal.png",
