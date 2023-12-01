@@ -2,10 +2,17 @@
 	"nodes":[
 		{"id":"c945ace3af547381","x":-240,"y":-120,"width":280,"height":60,"type":"text","text":"Species overlapping subsets"},
 		{"id":"b237d5af4ce8deed","x":400,"y":0,"width":250,"height":60,"type":"text","text":"A tree on full dataset."},
-		{"id":"5d32ec22420fa283","x":-300,"y":0,"width":280,"height":60,"type":"text","text":"unrooted leaf-labelled trees"}
+		{"id":"5d32ec22420fa283","x":-300,"y":0,"width":280,"height":60,"type":"text","text":"unrooted leaf-labelled trees"},
+		{"id":"6e120afa7a645559","x":-380,"y":200,"width":330,"height":60,"type":"text","text":"the most accurate supertree methods"},
+		{"id":"4b46fd4947519cfa","x":50,"y":359,"width":250,"height":60,"color":"1","type":"text","text":"NP-hard"},
+		{"id":"846737c139b6d75d","x":305,"y":201,"width":250,"height":60,"type":"text","text":"[[LIPIcs.WABI.2020.15_RawNote#^928h53o4wh|Divide and Conquer]]"},
+		{"id":"f66b1a2beb265ef1","x":650,"y":261,"width":250,"height":60,"type":"text","text":"apply supertree methods to two trees at a time."}
 	],
 	"edges":[
 		{"id":"bd9ecda9aab0b610","fromNode":"5d32ec22420fa283","fromSide":"top","toNode":"c945ace3af547381","toSide":"bottom"},
-		{"id":"e4ce9f66327ae6da","fromNode":"5d32ec22420fa283","fromSide":"right","toNode":"b237d5af4ce8deed","toSide":"left","label":"selected supertree method"}
+		{"id":"e4ce9f66327ae6da","fromNode":"5d32ec22420fa283","fromSide":"right","toNode":"b237d5af4ce8deed","toSide":"left","label":"selected supertree method"},
+		{"id":"e08845b2006a260b","fromNode":"6e120afa7a645559","fromSide":"right","toNode":"4b46fd4947519cfa","toSide":"left"},
+		{"id":"0b539bfe0a260652","fromNode":"6e120afa7a645559","fromSide":"right","toNode":"846737c139b6d75d","toSide":"left","label":"However"},
+		{"id":"07eafe1cfd8245da","fromNode":"846737c139b6d75d","fromSide":"right","toNode":"f66b1a2beb265ef1","toSide":"left"}
 	]
 }

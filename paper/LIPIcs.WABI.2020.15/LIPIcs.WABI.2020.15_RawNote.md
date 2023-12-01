@@ -229,3 +229,146 @@ annotation-target: paper/LIPIcs.WABI.2020.15/LIPIcs.WABI.2020.15.pdf
 >%%TAGS%%
 >
 ^rxjny8ahqfk
+
+
+>%%
+>```annotation-json
+>{"created":"2023-12-01T18:24:51.903Z","text":"密集的","updated":"2023-12-01T18:24:51.903Z","document":{"title":"Advancing Divide-And-Conquer Phylogeny Estimation Using Robinson-Foulds Supertrees","link":[{"href":"urn:x-pdf:7eb47a5ba8053f4a386b0bc8b3b8c8c8"},{"href":"vault:/paper/LIPIcs.WABI.2020.15/LIPIcs.WABI.2020.15.pdf"}],"documentFingerprint":"7eb47a5ba8053f4a386b0bc8b3b8c8c8"},"uri":"vault:/paper/LIPIcs.WABI.2020.15/LIPIcs.WABI.2020.15.pdf","target":[{"source":"vault:/paper/LIPIcs.WABI.2020.15/LIPIcs.WABI.2020.15.pdf","selector":[{"type":"TextPositionSelector","start":4995,"end":5005},{"type":"TextQuoteSelector","exact":"intensive ","prefix":"34, 16], and are computationally","suffix":"on large datasets. However, divi"}]}]}
+>```
+>%%
+>*%%PREFIX%%34, 16], and are computationally%%HIGHLIGHT%% ==intensive== %%POSTFIX%%on large datasets. However, divi*
+>%%LINK%%[[#^upk8fnhx0k|show annotation]]
+>%%COMMENT%%
+>密集的
+>%%TAGS%%
+>
+^upk8fnhx0k
+
+
+>%%
+>```annotation-json
+>{"created":"2023-12-01T18:26:17.366Z","text":"是值得關注的","updated":"2023-12-01T18:26:17.366Z","document":{"title":"Advancing Divide-And-Conquer Phylogeny Estimation Using Robinson-Foulds Supertrees","link":[{"href":"urn:x-pdf:7eb47a5ba8053f4a386b0bc8b3b8c8c8"},{"href":"vault:/paper/LIPIcs.WABI.2020.15/LIPIcs.WABI.2020.15.pdf"}],"documentFingerprint":"7eb47a5ba8053f4a386b0bc8b3b8c8c8"},"uri":"vault:/paper/LIPIcs.WABI.2020.15/LIPIcs.WABI.2020.15.pdf","target":[{"source":"vault:/paper/LIPIcs.WABI.2020.15/LIPIcs.WABI.2020.15.pdf","selector":[{"type":"TextPositionSelector","start":5232,"end":5247},{"type":"TextQuoteSelector","exact":" is of interest","prefix":"rtree estimation given two trees","suffix":". One optimization problemwhere "}]}]}
+>```
+>%%
+>*%%PREFIX%%rtree estimation given two trees%%HIGHLIGHT%% ==is of interest== %%POSTFIX%%. One optimization problemwhere*
+>%%LINK%%[[#^928h53o4wh|show annotation]]
+>%%COMMENT%%
+>是值得關注的
+>%%TAGS%%
+>
+^928h53o4wh
+
+
+>%%
+>```annotation-json
+>{"created":"2023-12-01T18:27:05.450Z","updated":"2023-12-01T18:27:05.450Z","document":{"title":"Advancing Divide-And-Conquer Phylogeny Estimation Using Robinson-Foulds Supertrees","link":[{"href":"urn:x-pdf:7eb47a5ba8053f4a386b0bc8b3b8c8c8"},{"href":"vault:/paper/LIPIcs.WABI.2020.15/LIPIcs.WABI.2020.15.pdf"}],"documentFingerprint":"7eb47a5ba8053f4a386b0bc8b3b8c8c8"},"uri":"vault:/paper/LIPIcs.WABI.2020.15/LIPIcs.WABI.2020.15.pdf","target":[{"source":"vault:/paper/LIPIcs.WABI.2020.15/LIPIcs.WABI.2020.15.pdf","selector":[{"type":"TextPositionSelector","start":5327,"end":5381},{"type":"TextQuoteSelector","exact":"the NP-hard Maximum AgreementSupertree (SMAST) problem","prefix":"es can be found on two trees is ","suffix":" (also known as the Agreement Su"}]}]}
+>```
+>%%
+>*%%PREFIX%%es can be found on two trees is%%HIGHLIGHT%% ==the NP-hard Maximum AgreementSupertree (SMAST) problem== %%POSTFIX%%(also known as the Agreement Su*
+>%%LINK%%[[#^pb5h17kpn1s|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^pb5h17kpn1s
+
+
+>%%
+>```annotation-json
+>{"created":"2023-12-01T18:29:02.083Z","updated":"2023-12-01T18:29:02.083Z","document":{"title":"Advancing Divide-And-Conquer Phylogeny Estimation Using Robinson-Foulds Supertrees","link":[{"href":"urn:x-pdf:7eb47a5ba8053f4a386b0bc8b3b8c8c8"},{"href":"vault:/paper/LIPIcs.WABI.2020.15/LIPIcs.WABI.2020.15.pdf"}],"documentFingerprint":"7eb47a5ba8053f4a386b0bc8b3b8c8c8"},"uri":"vault:/paper/LIPIcs.WABI.2020.15/LIPIcs.WABI.2020.15.pdf","target":[{"source":"vault:/paper/LIPIcs.WABI.2020.15/LIPIcs.WABI.2020.15.pdf","selector":[{"type":"TextPositionSelector","start":5388,"end":5441},{"type":"TextQuoteSelector","exact":"known as the Agreement Supertree Taxon Removalproblem","prefix":"Supertree (SMAST) problem (also ","suffix":"), which removes a minimum numbe"}]}]}
+>```
+>%%
+>*%%PREFIX%%Supertree (SMAST) problem (also%%HIGHLIGHT%% ==known as the Agreement Supertree Taxon Removalproblem== %%POSTFIX%%), which removes a minimum numbe*
+>%%LINK%%[[#^z7m7d42cu4|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^z7m7d42cu4
+
+
+
+
+>%%
+>```annotation-json
+>{"created":"2023-12-01T18:32:42.161Z","updated":"2023-12-01T18:32:42.161Z","document":{"title":"Advancing Divide-And-Conquer Phylogeny Estimation Using Robinson-Foulds Supertrees","link":[{"href":"urn:x-pdf:7eb47a5ba8053f4a386b0bc8b3b8c8c8"},{"href":"vault:/paper/LIPIcs.WABI.2020.15/LIPIcs.WABI.2020.15.pdf"}],"documentFingerprint":"7eb47a5ba8053f4a386b0bc8b3b8c8c8"},"uri":"vault:/paper/LIPIcs.WABI.2020.15/LIPIcs.WABI.2020.15.pdf","target":[{"source":"vault:/paper/LIPIcs.WABI.2020.15/LIPIcs.WABI.2020.15.pdf","selector":[{"type":"TextPositionSelector","start":5680,"end":5703},{"type":"TextQuoteSelector","exact":"compatibility supertree","prefix":"so that the reduced trees have a","suffix":" [5, 6], can also be solved in p"}]}]}
+>```
+>%%
+>*%%PREFIX%%so that the reduced trees have a%%HIGHLIGHT%% ==compatibility supertree== %%POSTFIX%%[5, 6], can also be solved in p*
+>%%LINK%%[[#^agmsw3femwp|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>#CompatibilitySupertree
+^agmsw3femwp
+
+
+
+>%%
+>```annotation-json
+>{"created":"2023-12-01T18:33:07.319Z","updated":"2023-12-01T18:33:07.319Z","document":{"title":"Advancing Divide-And-Conquer Phylogeny Estimation Using Robinson-Foulds Supertrees","link":[{"href":"urn:x-pdf:7eb47a5ba8053f4a386b0bc8b3b8c8c8"},{"href":"vault:/paper/LIPIcs.WABI.2020.15/LIPIcs.WABI.2020.15.pdf"}],"documentFingerprint":"7eb47a5ba8053f4a386b0bc8b3b8c8c8"},"uri":"vault:/paper/LIPIcs.WABI.2020.15/LIPIcs.WABI.2020.15.pdf","target":[{"source":"vault:/paper/LIPIcs.WABI.2020.15/LIPIcs.WABI.2020.15.pdf","selector":[{"type":"TextPositionSelector","start":5518,"end":5537},{"type":"TextQuoteSelector","exact":"agreement supertree","prefix":"o that the reduced trees havean ","suffix":" [17, 14]. Similarly, the Maximu"}]}]}
+>```
+>%%
+>*%%PREFIX%%o that the reduced trees havean%%HIGHLIGHT%% ==agreement supertree== %%POSTFIX%%[17, 14]. Similarly, the Maximu*
+>%%LINK%%[[#^agh266zhitm|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>#AgreementSupertree
+^agh266zhitm
+
+
+>%%
+>```annotation-json
+>{"created":"2023-12-01T18:34:12.095Z","updated":"2023-12-01T18:34:12.095Z","document":{"title":"Advancing Divide-And-Conquer Phylogeny Estimation Using Robinson-Foulds Supertrees","link":[{"href":"urn:x-pdf:7eb47a5ba8053f4a386b0bc8b3b8c8c8"},{"href":"vault:/paper/LIPIcs.WABI.2020.15/LIPIcs.WABI.2020.15.pdf"}],"documentFingerprint":"7eb47a5ba8053f4a386b0bc8b3b8c8c8"},"uri":"vault:/paper/LIPIcs.WABI.2020.15/LIPIcs.WABI.2020.15.pdf","target":[{"source":"vault:/paper/LIPIcs.WABI.2020.15/LIPIcs.WABI.2020.15.pdf","selector":[{"type":"TextPositionSelector","start":5768,"end":5846},{"type":"TextQuoteSelector","exact":"notethat SMAST and SMCT are identical when the input trees are fully resolved)","prefix":"lynomial time on two trees (and ","suffix":". BecauseSMAST and SMCT remove t"}]}]}
+>```
+>%%
+>*%%PREFIX%%lynomial time on two trees (and%%HIGHLIGHT%% ==notethat SMAST and SMCT are identical when the input trees are fully resolved)== %%POSTFIX%%. BecauseSMAST and SMCT remove t*
+>%%LINK%%[[#^7a5tcgeqp7e|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^7a5tcgeqp7e
+
+
+>%%
+>```annotation-json
+>{"created":"2023-12-01T18:34:40.502Z","updated":"2023-12-01T18:34:40.502Z","document":{"title":"Advancing Divide-And-Conquer Phylogeny Estimation Using Robinson-Foulds Supertrees","link":[{"href":"urn:x-pdf:7eb47a5ba8053f4a386b0bc8b3b8c8c8"},{"href":"vault:/paper/LIPIcs.WABI.2020.15/LIPIcs.WABI.2020.15.pdf"}],"documentFingerprint":"7eb47a5ba8053f4a386b0bc8b3b8c8c8"},"uri":"vault:/paper/LIPIcs.WABI.2020.15/LIPIcs.WABI.2020.15.pdf","target":[{"source":"vault:/paper/LIPIcs.WABI.2020.15/LIPIcs.WABI.2020.15.pdf","selector":[{"type":"TextPositionSelector","start":5927,"end":5952},{"type":"TextQuoteSelector","exact":"not truesupertree methods","prefix":"these optimization problems are ","suffix":", because they do not return a t"}]}]}
+>```
+>%%
+>*%%PREFIX%%these optimization problems are%%HIGHLIGHT%% ==not truesupertree methods== %%POSTFIX%%, because they do not return a t*
+>%%LINK%%[[#^m2eo63or9m|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^m2eo63or9m
+
+
+>%%
+>```annotation-json
+>{"created":"2023-12-01T18:34:52.932Z","updated":"2023-12-01T18:34:52.932Z","document":{"title":"Advancing Divide-And-Conquer Phylogeny Estimation Using Robinson-Foulds Supertrees","link":[{"href":"urn:x-pdf:7eb47a5ba8053f4a386b0bc8b3b8c8c8"},{"href":"vault:/paper/LIPIcs.WABI.2020.15/LIPIcs.WABI.2020.15.pdf"}],"documentFingerprint":"7eb47a5ba8053f4a386b0bc8b3b8c8c8"},"uri":"vault:/paper/LIPIcs.WABI.2020.15/LIPIcs.WABI.2020.15.pdf","target":[{"source":"vault:/paper/LIPIcs.WABI.2020.15/LIPIcs.WABI.2020.15.pdf","selector":[{"type":"TextPositionSelector","start":5849,"end":5881},{"type":"TextQuoteSelector","exact":"ecauseSMAST and SMCT remove taxa","prefix":"put trees are fully resolved). B","suffix":", methods for these optimization"}]}]}
+>```
+>%%
+>*%%PREFIX%%put trees are fully resolved). B%%HIGHLIGHT%% ==ecauseSMAST and SMCT remove taxa== %%POSTFIX%%, methods for these optimization*
+>%%LINK%%[[#^0ou8dessaki|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^0ou8dessaki
+
+
+>%%
+>```annotation-json
+>{"created":"2023-12-01T18:36:27.212Z","updated":"2023-12-01T18:36:27.212Z","document":{"title":"Advancing Divide-And-Conquer Phylogeny Estimation Using Robinson-Foulds Supertrees","link":[{"href":"urn:x-pdf:7eb47a5ba8053f4a386b0bc8b3b8c8c8"},{"href":"vault:/paper/LIPIcs.WABI.2020.15/LIPIcs.WABI.2020.15.pdf"}],"documentFingerprint":"7eb47a5ba8053f4a386b0bc8b3b8c8c8"},"uri":"vault:/paper/LIPIcs.WABI.2020.15/LIPIcs.WABI.2020.15.pdf","target":[{"source":"vault:/paper/LIPIcs.WABI.2020.15/LIPIcs.WABI.2020.15.pdf","selector":[{"type":"TextPositionSelector","start":6051,"end":6118},{"type":"TextQuoteSelector","exact":"could potentially be used as constraints for other supertreemethods","prefix":"ver,solutions to SMAST and SMCT ","suffix":", where the deleted leaves are a"}]}]}
+>```
+>%%
+>*%%PREFIX%%ver,solutions to SMAST and SMCT%%HIGHLIGHT%% ==could potentially be used as constraints for other supertreemethods== %%POSTFIX%%, where the deleted leaves are a*
+>%%LINK%%[[#^la41nrncuqm|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^la41nrncuqm
