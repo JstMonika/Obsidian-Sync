@@ -6,46 +6,33 @@
       {
         "id": "2c8a7d530742570a",
         "type": "tabs",
-        "dimension": 71.68998923573736,
+        "dimension": 76.12815884476534,
         "children": [
           {
             "id": "742efe35b1a85508",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Presentation Skills.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "195a53e505b960f2",
-            "type": "leaf",
-            "state": {
               "type": "pdf-annotator",
               "state": {
-                "file": "Note.md"
+                "file": "paper/LIPIcs.WABI.2020.15_Note.md"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
-        "id": "3de9d424726efcd3",
+        "id": "06b0682584c87a08",
         "type": "tabs",
-        "dimension": 28.31001076426265,
+        "dimension": 23.871841155234662,
         "children": [
           {
-            "id": "7d50e460965a140c",
+            "id": "9664140a48f54f80",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Note.md",
-                "mode": "preview",
+                "file": "paper/LIPIcs.WABI.2020.15_Note.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -116,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Note.md",
+                "file": "paper/LIPIcs.WABI.2020.15_Note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Note.md",
+                "file": "paper/LIPIcs.WABI.2020.15_Note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Note.md"
+                "file": "paper/LIPIcs.WABI.2020.15_Note.md"
               }
             }
           },
@@ -188,14 +175,14 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "7d50e460965a140c",
+  "active": "9664140a48f54f80",
   "lastOpenFiles": [
     "paper/LIPIcs.WABI.2020.15.pdf",
-    "Note.md",
+    "attachments/rs-optimal.png",
+    "paper/LIPIcs.WABI.2020.15_Note.md",
     "Presentation Skills.md",
     "paper",
     "Canvas.canvas",
-    "attachments/rs-optimal.png",
     "^1.md",
     "最新進度.md",
     "attachments/靈堂.png",
