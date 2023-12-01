@@ -87,3 +87,61 @@ annotation-target: paper/LIPIcs.WABI.2020.15.pdf
 >%%TAGS%%
 >
 ^o57y0p2x1ao
+
+
+
+>%%
+>```annotation-json
+>{"created":"2023-12-01T13:32:35.665Z","updated":"2023-12-01T13:32:35.665Z","document":{"title":"Advancing Divide-And-Conquer Phylogeny Estimation Using Robinson-Foulds Supertrees","link":[{"href":"urn:x-pdf:7eb47a5ba8053f4a386b0bc8b3b8c8c8"},{"href":"vault:/paper/LIPIcs.WABI.2020.15.pdf"}],"documentFingerprint":"7eb47a5ba8053f4a386b0bc8b3b8c8c8"},"uri":"vault:/paper/LIPIcs.WABI.2020.15.pdf","target":[{"source":"vault:/paper/LIPIcs.WABI.2020.15.pdf","selector":[{"type":"TextPositionSelector","start":1306,"end":1317},{"type":"TextQuoteSelector","exact":"Exact-RFS-2","prefix":"ertree method”. Here, wepresent ","suffix":", the first polynomial-time algo"}]}]}
+>```
+>%%
+>*%%PREFIX%%ertree method”. Here, wepresent%%HIGHLIGHT%% ==Exact-RFS-2== %%POSTFIX%%, the first polynomial-time algo*
+>%%LINK%%[[#^wv1qljvl199|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^wv1qljvl199
+
+
+
+>%%
+>```annotation-json
+>{"created":"2023-12-01T13:33:02.822Z","updated":"2023-12-01T13:33:02.822Z","document":{"title":"Advancing Divide-And-Conquer Phylogeny Estimation Using Robinson-Foulds Supertrees","link":[{"href":"urn:x-pdf:7eb47a5ba8053f4a386b0bc8b3b8c8c8"},{"href":"vault:/paper/LIPIcs.WABI.2020.15.pdf"}],"documentFingerprint":"7eb47a5ba8053f4a386b0bc8b3b8c8c8"},"uri":"vault:/paper/LIPIcs.WABI.2020.15.pdf","target":[{"source":"vault:/paper/LIPIcs.WABI.2020.15.pdf","selector":[{"type":"TextPositionSelector","start":1407,"end":1432},{"type":"TextQuoteSelector","exact":"Robinson-Foulds Supertree","prefix":"upertree of two trees,using the ","suffix":" (RFS) criterion (a major approa"}]}]}
+>```
+>%%
+>*%%PREFIX%%upertree of two trees,using the%%HIGHLIGHT%% ==Robinson-Foulds Supertree== %%POSTFIX%%(RFS) criterion (a major approa*
+>%%LINK%%[[#^lxwu41k7uu7|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^lxwu41k7uu7
+
+
+>%%
+>```annotation-json
+>{"created":"2023-12-01T13:33:28.611Z","text":"標準","updated":"2023-12-01T13:33:28.611Z","document":{"title":"Advancing Divide-And-Conquer Phylogeny Estimation Using Robinson-Foulds Supertrees","link":[{"href":"urn:x-pdf:7eb47a5ba8053f4a386b0bc8b3b8c8c8"},{"href":"vault:/paper/LIPIcs.WABI.2020.15.pdf"}],"documentFingerprint":"7eb47a5ba8053f4a386b0bc8b3b8c8c8"},"uri":"vault:/paper/LIPIcs.WABI.2020.15.pdf","target":[{"source":"vault:/paper/LIPIcs.WABI.2020.15.pdf","selector":[{"type":"TextPositionSelector","start":1439,"end":1449},{"type":"TextQuoteSelector","exact":"criterion ","prefix":"Robinson-Foulds Supertree (RFS) ","suffix":"(a major approach in supertree e"}]}]}
+>```
+>%%
+>*%%PREFIX%%Robinson-Foulds Supertree (RFS)%%HIGHLIGHT%% ==criterion== %%POSTFIX%%(a major approach in supertree e*
+>%%LINK%%[[#^2ybmi0m18wk|show annotation]]
+>%%COMMENT%%
+>標準
+>%%TAGS%%
+>
+^2ybmi0m18wk
+
+
+>%%
+>```annotation-json
+>{"created":"2023-12-01T13:34:05.251Z","updated":"2023-12-01T13:34:05.251Z","document":{"title":"Advancing Divide-And-Conquer Phylogeny Estimation Using Robinson-Foulds Supertrees","link":[{"href":"urn:x-pdf:7eb47a5ba8053f4a386b0bc8b3b8c8c8"},{"href":"vault:/paper/LIPIcs.WABI.2020.15.pdf"}],"documentFingerprint":"7eb47a5ba8053f4a386b0bc8b3b8c8c8"},"uri":"vault:/paper/LIPIcs.WABI.2020.15.pdf","target":[{"source":"vault:/paper/LIPIcs.WABI.2020.15.pdf","selector":[{"type":"TextPositionSelector","start":1623,"end":1633},{"type":"TextQuoteSelector","exact":"GreedyRFS ","prefix":"ees is NP-hard. We also present ","suffix":"(a greedy heuristic that operate"}]}]}
+>```
+>%%
+>*%%PREFIX%%ees is NP-hard. We also present%%HIGHLIGHT%% ==GreedyRFS== %%POSTFIX%%(a greedy heuristic that operate*
+>%%LINK%%[[#^5w7845f81w|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^5w7845f81w

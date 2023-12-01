@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "2c8a7d530742570a",
+        "id": "304e77c105a63433",
         "type": "tabs",
-        "dimension": 76.12815884476534,
+        "dimension": 75.58664259927798,
         "children": [
           {
-            "id": "742efe35b1a85508",
+            "id": "0991888b4c11cb84",
             "type": "leaf",
             "state": {
               "type": "pdf-annotator",
@@ -23,7 +23,7 @@
       {
         "id": "06b0682584c87a08",
         "type": "tabs",
-        "dimension": 23.871841155234662,
+        "dimension": 24.41335740072202,
         "children": [
           {
             "id": "9664140a48f54f80",
@@ -32,7 +32,7 @@
               "type": "markdown",
               "state": {
                 "file": "paper/LIPIcs.WABI.2020.15_Note.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -156,11 +156,12 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 357.5
+    "width": 357.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -174,11 +175,11 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "c2da6204134870b2",
+  "active": "0991888b4c11cb84",
   "lastOpenFiles": [
     "paper/LIPIcs.WABI.2020.15.pdf",
-    "attachments/rs-optimal.png",
     "paper/LIPIcs.WABI.2020.15_Note.md",
+    "attachments/rs-optimal.png",
     "Presentation Skills.md",
     "paper",
     "Canvas.canvas",
