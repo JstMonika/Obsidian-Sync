@@ -400,3 +400,17 @@ annotation-target: paper/LIPIcs.WABI.2020.15/LIPIcs.WABI.2020.15.pdf
 >%%TAGS%%
 >
 ^dpemdp53skq
+
+
+>%%
+>```annotation-json
+>{"created":"2023-12-02T10:13:23.521Z","updated":"2023-12-02T10:13:23.521Z","document":{"title":"Advancing Divide-And-Conquer Phylogeny Estimation Using Robinson-Foulds Supertrees","link":[{"href":"urn:x-pdf:7eb47a5ba8053f4a386b0bc8b3b8c8c8"},{"href":"vault:/paper/LIPIcs.WABI.2020.15/LIPIcs.WABI.2020.15.pdf"}],"documentFingerprint":"7eb47a5ba8053f4a386b0bc8b3b8c8c8"},"uri":"vault:/paper/LIPIcs.WABI.2020.15/LIPIcs.WABI.2020.15.pdf","target":[{"source":"vault:/paper/LIPIcs.WABI.2020.15/LIPIcs.WABI.2020.15.pdf","selector":[{"type":"TextPositionSelector","start":7328,"end":7389},{"type":"TextQuoteSelector","exact":"AST-EC proposed by [14] may be exponential even for two trees","prefix":"14].Note that the algorithm for ","suffix":",when the number of edges that m"}]}]}
+>```
+>%%
+>*%%PREFIX%%14].Note that the algorithm for%%HIGHLIGHT%% ==AST-EC proposed by [14] may be exponential even for two trees== %%POSTFIX%%,when the number of edges that m*
+>%%LINK%%[[#^7nd7txzbj7r|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^7nd7txzbj7r
