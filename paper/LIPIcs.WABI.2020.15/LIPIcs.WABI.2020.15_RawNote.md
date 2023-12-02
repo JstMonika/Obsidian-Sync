@@ -386,3 +386,17 @@ annotation-target: paper/LIPIcs.WABI.2020.15/LIPIcs.WABI.2020.15.pdf
 >%%TAGS%%
 >#questions
 ^yqurdpt5koj
+
+
+>%%
+>```annotation-json
+>{"created":"2023-12-02T06:28:57.684Z","updated":"2023-12-02T06:28:57.684Z","document":{"title":"Advancing Divide-And-Conquer Phylogeny Estimation Using Robinson-Foulds Supertrees","link":[{"href":"urn:x-pdf:7eb47a5ba8053f4a386b0bc8b3b8c8c8"},{"href":"vault:/paper/LIPIcs.WABI.2020.15/LIPIcs.WABI.2020.15.pdf"}],"documentFingerprint":"7eb47a5ba8053f4a386b0bc8b3b8c8c8"},"uri":"vault:/paper/LIPIcs.WABI.2020.15/LIPIcs.WABI.2020.15.pdf","target":[{"source":"vault:/paper/LIPIcs.WABI.2020.15/LIPIcs.WABI.2020.15.pdf","selector":[{"type":"TextPositionSelector","start":6878,"end":7060},{"type":"TextQuoteSelector","exact":"MaximumAgreement Supertree Edge Contraction problem (which takes as input a set of rooted treesand seeks a minimum number of edges to collapse so that an agreement supertree exists).","prefix":"problem worth discussing is the ","suffix":"This problem is NP-hard, but the"}]}]}
+>```
+>%%
+>*%%PREFIX%%problem worth discussing is the%%HIGHLIGHT%% ==MaximumAgreement Supertree Edge Contraction problem (which takes as input a set of rooted treesand seeks a minimum number of edges to collapse so that an agreement supertree exists).== %%POSTFIX%%This problem is NP-hard, but the*
+>%%LINK%%[[#^dpemdp53skq|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^dpemdp53skq

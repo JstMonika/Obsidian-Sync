@@ -11,3 +11,5 @@
 	1. [[LIPIcs.WABI.2020.15_RawNote#^m2eo63or9m|These optimization problem are not true supertree methods, because they do not return a tree on the entire set of taxa]]
 	2. [[LIPIcs.WABI.2020.15_RawNote#^la41nrncuqm|could potentially be used as constraints for other supertreemethods]]
 	3. [[LIPIcs.WABI.2020.15_RawNote#^928h53o4wh| is of interest]]
+5. [[LIPIcs.WABI.2020.15_RawNote#^dpemdp53skq|MaximumAgreement Supertree Edge Contraction problem (which takes as input a set of rooted treesand seeks a minimum number of edges to collapse so that an agreement supertree exists).]]
+6. 
