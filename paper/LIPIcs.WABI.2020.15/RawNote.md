@@ -414,3 +414,17 @@ annotation-target: paper/LIPIcs.WABI.2020.15/LIPIcs.WABI.2020.15.pdf
 >%%TAGS%%
 >
 ^7nd7txzbj7r
+
+
+>%%
+>```annotation-json
+>{"created":"2023-12-02T16:25:20.490Z","updated":"2023-12-02T16:25:20.490Z","document":{"title":"Advancing Divide-And-Conquer Phylogeny Estimation Using Robinson-Foulds Supertrees","link":[{"href":"urn:x-pdf:7eb47a5ba8053f4a386b0bc8b3b8c8c8"},{"href":"vault:/paper/LIPIcs.WABI.2020.15/LIPIcs.WABI.2020.15.pdf"}],"documentFingerprint":"7eb47a5ba8053f4a386b0bc8b3b8c8c8"},"uri":"vault:/paper/LIPIcs.WABI.2020.15/LIPIcs.WABI.2020.15.pdf","target":[{"source":"vault:/paper/LIPIcs.WABI.2020.15/LIPIcs.WABI.2020.15.pdf","selector":[{"type":"TextPositionSelector","start":7576,"end":7832},{"type":"TextQuoteSelector","exact":"In sum, while supertree methods are important and well studied, when restricted to themajor optimization problems that do not remove taxa, polynomial time methods do notseem to be available, even for the special case where the input contains just two trees","prefix":"leaf to the rightmost position).","suffix":". Thisrestriction has consequenc"}]}]}
+>```
+>%%
+>*%%PREFIX%%leaf to the rightmost position).%%HIGHLIGHT%% ==In sum, while supertree methods are important and well studied, when restricted to themajor optimization problems that do not remove taxa, polynomial time methods do notseem to be available, even for the special case where the input contains just two trees== %%POSTFIX%%. Thisrestriction has consequenc*
+>%%LINK%%[[#^d2gduaenn07|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^d2gduaenn07

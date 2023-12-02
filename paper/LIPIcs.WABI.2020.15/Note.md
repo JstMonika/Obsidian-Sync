@@ -12,4 +12,5 @@
 	2. [[RawNote#^la41nrncuqm|could potentially be used as constraints for other supertreemethods]]
 	3. [[RawNote#^928h53o4wh| is of interest]]
 5. [[RawNote#^dpemdp53skq|MaximumAgreement Supertree Edge Contraction problem (which takes as input a set of rooted treesand seeks a minimum number of edges to collapse so that an agreement supertree exists).]]
-6. 
+6. [[RawNote#^d2gduaenn07|In sum, while supertree methods are important and well studied, when restricted to themajor optimization problems that do not remove taxa, polynomial time methods do notseem to be available, even for the special case where the input contains just two trees]]
+7. 
