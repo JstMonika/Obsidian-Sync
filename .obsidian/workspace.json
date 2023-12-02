@@ -18,7 +18,7 @@
                 "state": {
                   "type": "pdf-annotator",
                   "state": {
-                    "file": "paper/LIPIcs.WABI.2020.15/LIPIcs.WABI.2020.15_RawNote.md"
+                    "file": "paper/LIPIcs.WABI.2020.15/RawNote.md"
                   }
                 }
               }
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "paper/LIPIcs.WABI.2020.15/LIPIcs.WABI.2020.15_Note.md",
+                "file": "paper/LIPIcs.WABI.2020.15/RawNote.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "paper/LIPIcs.WABI.2020.15/LIPIcs.WABI.2020.15_Note.md",
+                "file": "paper/LIPIcs.WABI.2020.15/RawNote.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "paper/LIPIcs.WABI.2020.15/LIPIcs.WABI.2020.15_Note.md"
+                "file": "paper/LIPIcs.WABI.2020.15/RawNote.md"
               }
             }
           },
@@ -163,7 +163,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "paper/LIPIcs.WABI.2020.15/LIPIcs.WABI.2020.15_Note.md",
+                "file": "paper/LIPIcs.WABI.2020.15/Note.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -189,13 +189,13 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "670cf176b1e64efc",
+  "active": "a0d4aefcdaad22af",
   "lastOpenFiles": [
-    "paper/LIPIcs.WABI.2020.15/LIPIcs.WABI.2020.15_RawNote.md",
-    "paper/LIPIcs.WABI.2020.15/Canvas.canvas",
-    "paper/LIPIcs.WABI.2020.15/LIPIcs.WABI.2020.15_Note.md",
-    "未命名.md",
     "paper/LIPIcs.WABI.2020.15/LIPIcs.WABI.2020.15.pdf",
+    "paper/LIPIcs.WABI.2020.15/Note.md",
+    "paper/LIPIcs.WABI.2020.15/RawNote.md",
+    "paper/LIPIcs.WABI.2020.15/Canvas.canvas",
+    "未命名.md",
     "paper/LIPIcs.WABI.2020.15",
     "supertree.md",
     "test.md",
