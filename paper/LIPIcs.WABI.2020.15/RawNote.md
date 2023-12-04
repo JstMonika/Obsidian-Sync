@@ -426,3 +426,17 @@ annotation-target: paper/LIPIcs.WABI.2020.15/LIPIcs.WABI.2020.15.pdf
 >%%TAGS%%
 >
 ^d2gduaenn07
+
+
+>%%
+>```annotation-json
+>{"created":"2023-12-04T09:25:25.668Z","text":"假設","updated":"2023-12-04T09:25:25.668Z","document":{"title":"Advancing Divide-And-Conquer Phylogeny Estimation Using Robinson-Foulds Supertrees","link":[{"href":"urn:x-pdf:7eb47a5ba8053f4a386b0bc8b3b8c8c8"},{"href":"vault:/paper/LIPIcs.WABI.2020.15/LIPIcs.WABI.2020.15.pdf"}],"documentFingerprint":"7eb47a5ba8053f4a386b0bc8b3b8c8c8"},"uri":"vault:/paper/LIPIcs.WABI.2020.15/LIPIcs.WABI.2020.15.pdf","target":[{"source":"vault:/paper/LIPIcs.WABI.2020.15/LIPIcs.WABI.2020.15.pdf","selector":[{"type":"TextPositionSelector","start":4443,"end":4452},{"type":"TextQuoteSelector","exact":"provided ","prefix":" supertree method. Furthermore, ","suffix":"that optimal supertreesare compu"}]}]}
+>```
+>%%
+>*%%PREFIX%%supertree method. Furthermore,%%HIGHLIGHT%% ==provided== %%POSTFIX%%that optimal supertreesare compu*
+>%%LINK%%[[#^oomvulh066k|show annotation]]
+>%%COMMENT%%
+>假設
+>%%TAGS%%
+>
+^oomvulh066k
