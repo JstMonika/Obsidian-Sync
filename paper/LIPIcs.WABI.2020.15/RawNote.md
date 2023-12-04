@@ -440,3 +440,17 @@ annotation-target: paper/LIPIcs.WABI.2020.15/LIPIcs.WABI.2020.15.pdf
 >%%TAGS%%
 >
 ^oomvulh066k
+
+
+>%%
+>```annotation-json
+>{"created":"2023-12-04T09:33:51.424Z","text":"可被證明","updated":"2023-12-04T09:33:51.424Z","document":{"title":"Advancing Divide-And-Conquer Phylogeny Estimation Using Robinson-Foulds Supertrees","link":[{"href":"urn:x-pdf:7eb47a5ba8053f4a386b0bc8b3b8c8c8"},{"href":"vault:/paper/LIPIcs.WABI.2020.15/LIPIcs.WABI.2020.15.pdf"}],"documentFingerprint":"7eb47a5ba8053f4a386b0bc8b3b8c8c8"},"uri":"vault:/paper/LIPIcs.WABI.2020.15/LIPIcs.WABI.2020.15.pdf","target":[{"source":"vault:/paper/LIPIcs.WABI.2020.15/LIPIcs.WABI.2020.15.pdf","selector":[{"type":"TextPositionSelector","start":4525,"end":4533},{"type":"TextQuoteSelector","exact":"provably","prefix":"de-and-conquer pipelines can be ","suffix":" statistically consistent unders"}]}]}
+>```
+>%%
+>*%%PREFIX%%de-and-conquer pipelines can be%%HIGHLIGHT%% ==provably== %%POSTFIX%%statistically consistent unders*
+>%%LINK%%[[#^c8uzbfhg326|show annotation]]
+>%%COMMENT%%
+>可被證明
+>%%TAGS%%
+>
+^c8uzbfhg326
