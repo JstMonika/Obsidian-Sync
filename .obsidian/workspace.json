@@ -4,20 +4,50 @@
     "type": "split",
     "children": [
       {
-        "id": "e50e828674e4dae8",
-        "type": "tabs",
+        "id": "6d72f52a40c8dfea",
+        "type": "split",
         "children": [
           {
-            "id": "8c589fe0a6aff877",
-            "type": "leaf",
-            "state": {
-              "type": "pdf-annotator",
-              "state": {
-                "file": "paper/LIPIcs.WABI.2020.15/RawNote.md"
+            "id": "e50e828674e4dae8",
+            "type": "tabs",
+            "dimension": 69.14529914529915,
+            "children": [
+              {
+                "id": "8c589fe0a6aff877",
+                "type": "leaf",
+                "state": {
+                  "type": "canvas",
+                  "state": {
+                    "file": "paper/LIPIcs.WABI.2020.15/Canvas.canvas",
+                    "viewState": {
+                      "x": 216.484883687517,
+                      "y": -117.78866501345121,
+                      "zoom": 0
+                    }
+                  }
+                }
               }
-            }
+            ]
+          },
+          {
+            "id": "a6e9d4a00936186e",
+            "type": "tabs",
+            "dimension": 30.854700854700855,
+            "children": [
+              {
+                "id": "e8118a89ba4e0032",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf-annotator",
+                  "state": {
+                    "file": "paper/LIPIcs.WABI.2020.15/RawNote.md"
+                  }
+                }
+              }
+            ]
           }
-        ]
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -83,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "paper/LIPIcs.WABI.2020.15/RawNote.md",
+                "file": "paper/LIPIcs.WABI.2020.15/Canvas.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "paper/LIPIcs.WABI.2020.15/RawNote.md",
+                "file": "paper/LIPIcs.WABI.2020.15/Canvas.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "paper/LIPIcs.WABI.2020.15/RawNote.md"
+                "file": "paper/LIPIcs.WABI.2020.15/Canvas.canvas"
               }
             }
           },
@@ -157,11 +187,11 @@
   },
   "active": "8c589fe0a6aff877",
   "lastOpenFiles": [
-    "paper/LIPIcs.WABI.2020.15/Note.md",
     "paper/LIPIcs.WABI.2020.15/RawNote.md",
-    "Presentation Skills.md",
-    "paper/LIPIcs.WABI.2020.15/LIPIcs.WABI.2020.15.pdf",
     "paper/LIPIcs.WABI.2020.15/Canvas.canvas",
+    "paper/LIPIcs.WABI.2020.15/LIPIcs.WABI.2020.15.pdf",
+    "paper/LIPIcs.WABI.2020.15/Note.md",
+    "Presentation Skills.md",
     "paper/LIPIcs.WABI.2020.15",
     "Canvas.canvas",
     "Excalidraw/Drawing 2023-12-01 16.31.26.excalidraw.md",
