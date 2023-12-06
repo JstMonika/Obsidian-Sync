@@ -9,7 +9,9 @@
 		{"id":"e1bc960e6a1037cf","type":"text","text":"Supertree construction","x":-317,"y":-433,"width":250,"height":60},
 		{"id":"469730ad8cff30d2","type":"text","text":"important for large-scale phylogeny estimation","x":300,"y":-433,"width":398,"height":57},
 		{"id":"b6c36916af1c7e96","type":"text","text":"can be used as a final step in a divide-and-conquer pipeline","x":-192,"y":-240,"width":520,"height":60},
-		{"id":"c945ace3af547381","type":"text","text":"Species overlapping subsets","x":-230,"y":-160,"width":280,"height":60}
+		{"id":"c945ace3af547381","type":"text","text":"Species overlapping subsets","x":-230,"y":-160,"width":280,"height":60},
+		{"id":"536e24c50391ace2","x":380,"y":574,"width":380,"height":50,"type":"text","text":"NP-hard Maximum Agreement Supertree"},
+		{"id":"b2d80a3b71692506","x":441,"y":699,"width":399,"height":60,"type":"text","text":"optimal supertree can be found on two trees."}
 	],
 	"edges":[
 		{"id":"e4ce9f66327ae6da","fromNode":"5d32ec22420fa283","fromSide":"right","toNode":"b237d5af4ce8deed","toSide":"left","label":"selected supertree method"},
@@ -19,6 +21,7 @@
 		{"id":"289f1e2ccefc7a36","fromNode":"e1bc960e6a1037cf","fromSide":"right","toNode":"469730ad8cff30d2","toSide":"left"},
 		{"id":"8d9fcc9e2295bce7","fromNode":"469730ad8cff30d2","fromSide":"bottom","toNode":"b6c36916af1c7e96","toSide":"top"},
 		{"id":"e7f743039f353e3c","fromNode":"b6c36916af1c7e96","fromSide":"left","toNode":"5d32ec22420fa283","toSide":"left","label":"Example"},
-		{"id":"ee6ee74e9c288ae8","fromNode":"c945ace3af547381","fromSide":"bottom","toNode":"5d32ec22420fa283","toSide":"top"}
+		{"id":"ee6ee74e9c288ae8","fromNode":"c945ace3af547381","fromSide":"bottom","toNode":"5d32ec22420fa283","toSide":"top"},
+		{"id":"97c9919923cec88c","fromNode":"536e24c50391ace2","fromSide":"bottom","toNode":"b2d80a3b71692506","toSide":"top"}
 	]
 }
