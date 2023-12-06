@@ -10,11 +10,12 @@
 		{"id":"469730ad8cff30d2","type":"text","text":"important for large-scale phylogeny estimation","x":300,"y":-433,"width":398,"height":57},
 		{"id":"b6c36916af1c7e96","type":"text","text":"can be used as a final step in a divide-and-conquer pipeline","x":-192,"y":-240,"width":520,"height":60},
 		{"id":"c945ace3af547381","type":"text","text":"Species overlapping subsets","x":-230,"y":-160,"width":280,"height":60},
-		{"id":"536e24c50391ace2","x":380,"y":574,"width":380,"height":50,"type":"text","text":"NP-hard Maximum Agreement Supertree"},
+		{"id":"536e24c50391ace2","x":380,"y":574,"width":380,"height":50,"color":"2","type":"text","text":"NP-hard Maximum Agreement Supertree"},
 		{"id":"b2d80a3b71692506","x":441,"y":699,"width":399,"height":60,"type":"text","text":"optimal supertree can be found on two trees."},
 		{"id":"335da5acdd8c176a","x":492,"y":448,"width":548,"height":60,"type":"text","text":"a.k.a. Agreement Supertree Taxon Removal problem"},
 		{"id":"6bda8ada5ac0d7bb","x":1100,"y":574,"width":340,"height":50,"type":"text","text":"remove a minimum number of leaves"},
-		{"id":"f5303bde3a8b023c","x":1260,"y":699,"width":420,"height":60,"type":"text","text":"the reduced trees have an agreement supertree."}
+		{"id":"f5303bde3a8b023c","x":1260,"y":699,"width":420,"height":60,"type":"text","text":"the reduced trees have an agreement supertree."},
+		{"id":"01c43323c39e560d","x":-87,"y":701,"width":367,"height":60,"color":"2","type":"text","text":"Maximum Compatible Supertree (SMCT)"}
 	],
 	"edges":[
 		{"id":"e4ce9f66327ae6da","fromNode":"5d32ec22420fa283","fromSide":"right","toNode":"b237d5af4ce8deed","toSide":"left","label":"selected supertree method"},
@@ -28,6 +29,7 @@
 		{"id":"97c9919923cec88c","fromNode":"536e24c50391ace2","fromSide":"bottom","toNode":"b2d80a3b71692506","toSide":"top"},
 		{"id":"9ba9c61d46919075","fromNode":"536e24c50391ace2","fromSide":"top","toNode":"335da5acdd8c176a","toSide":"bottom"},
 		{"id":"ada4d91eef14d704","fromNode":"536e24c50391ace2","fromSide":"right","toNode":"6bda8ada5ac0d7bb","toSide":"left"},
-		{"id":"07d095f36ebd3844","fromNode":"6bda8ada5ac0d7bb","fromSide":"bottom","toNode":"f5303bde3a8b023c","toSide":"top"}
+		{"id":"07d095f36ebd3844","fromNode":"6bda8ada5ac0d7bb","fromSide":"bottom","toNode":"f5303bde3a8b023c","toSide":"top"},
+		{"id":"0eb0c07ebdabf49b","fromNode":"536e24c50391ace2","fromSide":"left","toNode":"01c43323c39e560d","toSide":"top","fromEnd":"arrow","label":"Similarly?"}
 	]
 }
