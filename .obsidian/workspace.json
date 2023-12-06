@@ -32,8 +32,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -99,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "paper/LIPIcs.WABI.2020.15/RawNote.md",
+                "file": "paper/LIPIcs.WABI.2020.15/Canvas.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "paper/LIPIcs.WABI.2020.15/RawNote.md",
+                "file": "paper/LIPIcs.WABI.2020.15/Canvas.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "paper/LIPIcs.WABI.2020.15/RawNote.md"
+                "file": "paper/LIPIcs.WABI.2020.15/Canvas.canvas"
               }
             }
           },
@@ -152,7 +151,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -171,12 +170,12 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "e8118a89ba4e0032",
+  "active": "8c589fe0a6aff877",
   "lastOpenFiles": [
+    "paper/LIPIcs.WABI.2020.15/RawNote.md",
     "paper/LIPIcs.WABI.2020.15/Canvas.canvas",
     "SMCT.md",
     "Untitled.md",
-    "paper/LIPIcs.WABI.2020.15/RawNote.md",
     "paper/LIPIcs.WABI.2020.15/LIPIcs.WABI.2020.15.pdf",
     "paper/LIPIcs.WABI.2020.15/Note.md",
     "Presentation Skills.md",
