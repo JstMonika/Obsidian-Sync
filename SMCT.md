@@ -1,1 +1,0 @@
-the reduced trees have an agreement supertree.
