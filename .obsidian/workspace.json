@@ -16,7 +16,7 @@
                 "file": "paper/LIPIcs.WABI.2020.15/Canvas.canvas",
                 "viewState": {
                   "x": 1087.942086111366,
-                  "y": 886.4251512465594,
+                  "y": 1196.4251323256608,
                   "zoom": 0
                 }
               }
@@ -32,7 +32,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -98,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "paper/LIPIcs.WABI.2020.15/Canvas.canvas",
+                "file": "paper/LIPIcs.WABI.2020.15/RawNote.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "paper/LIPIcs.WABI.2020.15/Canvas.canvas",
+                "file": "paper/LIPIcs.WABI.2020.15/RawNote.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "paper/LIPIcs.WABI.2020.15/Canvas.canvas"
+                "file": "paper/LIPIcs.WABI.2020.15/RawNote.md"
               }
             }
           },
@@ -170,10 +171,10 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "8c589fe0a6aff877",
+  "active": "e8118a89ba4e0032",
   "lastOpenFiles": [
-    "SMCT.md",
     "paper/LIPIcs.WABI.2020.15/Canvas.canvas",
+    "SMCT.md",
     "Untitled.md",
     "paper/LIPIcs.WABI.2020.15/RawNote.md",
     "paper/LIPIcs.WABI.2020.15/LIPIcs.WABI.2020.15.pdf",

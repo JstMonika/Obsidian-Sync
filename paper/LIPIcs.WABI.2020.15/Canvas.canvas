@@ -21,7 +21,8 @@
 		{"id":"5270bd98f72eea5e","type":"text","text":"remove a minimum number of leaves","x":900,"y":860,"width":340,"height":50},
 		{"id":"6bda8ada5ac0d7bb","type":"text","text":"remove a minimum number of leaves","x":900,"y":574,"width":340,"height":50},
 		{"id":"228dba33ac568eec","type":"text","text":"remove taxa","x":620,"y":1240,"width":250,"height":60,"color":"5"},
-		{"id":"274dfb7170254408","x":1019,"y":1237,"width":541,"height":60,"type":"text","text":"method for these problems are not ***true supertree methods***"}
+		{"id":"274dfb7170254408","x":1019,"y":1237,"width":541,"height":60,"type":"text","text":"method for these problems are not ***true supertree methods***"},
+		{"id":"076094a63ace21da","x":1019,"y":1380,"width":541,"height":60,"type":"text","text":"since do not return a tree on the entire set of taxa"}
 	],
 	"edges":[
 		{"id":"e4ce9f66327ae6da","fromNode":"5d32ec22420fa283","fromSide":"right","toNode":"b237d5af4ce8deed","toSide":"left","label":"selected supertree method"},
@@ -46,6 +47,7 @@
 		{"id":"203b24ea8d978723","fromNode":"c62f7a949034861f","fromSide":"right","toNode":"39b62aca916cf5ca","toSide":"left","color":"1"},
 		{"id":"beca40c5424d34e5","fromNode":"c62f7a949034861f","fromSide":"right","toNode":"228dba33ac568eec","toSide":"top","color":"5"},
 		{"id":"1942364cb71da21b","fromNode":"536e24c50391ace2","fromSide":"right","toNode":"228dba33ac568eec","toSide":"top","color":"5"},
-		{"id":"8ad01d4484dab334","fromNode":"228dba33ac568eec","fromSide":"right","toNode":"274dfb7170254408","toSide":"left"}
+		{"id":"8ad01d4484dab334","fromNode":"228dba33ac568eec","fromSide":"right","toNode":"274dfb7170254408","toSide":"left"},
+		{"id":"80088fc44ae3b19c","fromNode":"274dfb7170254408","fromSide":"bottom","toNode":"076094a63ace21da","toSide":"top"}
 	]
 }
