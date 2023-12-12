@@ -31,8 +31,22 @@
                 "file": "paper/LIPIcs.WABI.2020.15/RawNote.md"
               }
             }
+          },
+          {
+            "id": "7b969ae6f17165ce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "paper/LIPIcs.WABI.2020.15/Note.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "paper/LIPIcs.WABI.2020.15/Canvas.canvas",
+                "file": "paper/LIPIcs.WABI.2020.15/Note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "paper/LIPIcs.WABI.2020.15/Canvas.canvas",
+                "file": "paper/LIPIcs.WABI.2020.15/Note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "paper/LIPIcs.WABI.2020.15/Canvas.canvas"
+                "file": "paper/LIPIcs.WABI.2020.15/Note.md"
               }
             }
           },
@@ -170,14 +184,18 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "8c589fe0a6aff877",
+  "active": "7b969ae6f17165ce",
   "lastOpenFiles": [
     "paper/LIPIcs.WABI.2020.15/RawNote.md",
+    "paper/LIPIcs.WABI.2020.15/reference/Robinson-Foulds Supertrees.pdf",
+    "paper/LIPIcs.WABI.2020.15/Note.md",
     "paper/LIPIcs.WABI.2020.15/Canvas.canvas",
+    "paper/LIPIcs.WABI.2020.15/reference/(2) Robinson-Foulds supertrees.md",
+    "paper/LIPIcs.WABI.2020.15/reference",
+    "未命名",
     "SMCT.md",
     "Untitled.md",
     "paper/LIPIcs.WABI.2020.15/LIPIcs.WABI.2020.15.pdf",
-    "paper/LIPIcs.WABI.2020.15/Note.md",
     "Presentation Skills.md",
     "paper/LIPIcs.WABI.2020.15",
     "Canvas.canvas",
@@ -188,7 +206,6 @@
     "Excalidraw/Drawing 2023-12-01 16.30.19.excalidraw.md",
     "Excalidraw",
     "TEST.md",
-    "未命名",
     "test_annotator.md",
     "paper",
     "attachments/rs-optimal.png",

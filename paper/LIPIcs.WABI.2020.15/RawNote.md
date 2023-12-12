@@ -454,3 +454,17 @@ annotation-target: paper/LIPIcs.WABI.2020.15/LIPIcs.WABI.2020.15.pdf
 >%%TAGS%%
 >
 ^c8uzbfhg326
+
+
+>%%
+>```annotation-json
+>{"created":"2023-12-12T06:40:46.997Z","updated":"2023-12-12T06:40:46.997Z","document":{"title":"Advancing Divide-And-Conquer Phylogeny Estimation Using Robinson-Foulds Supertrees","link":[{"href":"urn:x-pdf:7eb47a5ba8053f4a386b0bc8b3b8c8c8"},{"href":"vault:/paper/LIPIcs.WABI.2020.15/LIPIcs.WABI.2020.15.pdf"}],"documentFingerprint":"7eb47a5ba8053f4a386b0bc8b3b8c8c8"},"uri":"vault:/paper/LIPIcs.WABI.2020.15/LIPIcs.WABI.2020.15.pdf","target":[{"source":"vault:/paper/LIPIcs.WABI.2020.15/LIPIcs.WABI.2020.15.pdf","selector":[{"type":"TextPositionSelector","start":45408,"end":45564},{"type":"TextQuoteSelector","exact":"Mukul S Bansal, J Gordon Burleigh, Oliver Eulenstein, and David Fernández-Baca. Robinson-Foulds supertrees. Algorithms for Molecular Biology, 5(1):18, 2010.","prefix":"omputing, 10(3):405–421, 1981.2 ","suffix":"3 Julien Baste, Christophe Paul,"}]}]}
+>```
+>%%
+>*%%PREFIX%%omputing, 10(3):405–421, 1981.2%%HIGHLIGHT%% ==Mukul S Bansal, J Gordon Burleigh, Oliver Eulenstein, and David Fernández-Baca. [[Robinson-Foulds Supertrees.pdf|Robinson-Foulds Supertrees]] Algorithms for Molecular Biology, 5(1):18, 2010.== %%POSTFIX%%3 Julien Baste, Christophe Paul,*
+>%%LINK%%[[#^83qso2dicwo|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^83qso2dicwo
