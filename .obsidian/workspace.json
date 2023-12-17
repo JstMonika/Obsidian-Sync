@@ -4,35 +4,50 @@
     "type": "split",
     "children": [
       {
-        "id": "e50e828674e4dae8",
-        "type": "tabs",
+        "id": "682e0b954493264c",
+        "type": "split",
         "children": [
           {
-            "id": "8c589fe0a6aff877",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "paper/LIPIcs.WABI.2020.15/Canvas.canvas",
-                "viewState": {
-                  "x": 1087.942086111366,
-                  "y": 1196.4251323256608,
-                  "zoom": 0
+            "id": "4812d19af7622795",
+            "type": "tabs",
+            "dimension": 64.8936170212766,
+            "children": [
+              {
+                "id": "a0d4aefcdaad22af",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf-annotator",
+                  "state": {
+                    "file": "paper/LIPIcs.WABI.2020.15/RawNote.md"
+                  }
                 }
               }
-            }
+            ]
           },
           {
-            "id": "e8118a89ba4e0032",
-            "type": "leaf",
-            "state": {
-              "type": "pdf-annotator",
-              "state": {
-                "file": "paper/LIPIcs.WABI.2020.15/RawNote.md"
+            "id": "3377a3466a76d63e",
+            "type": "tabs",
+            "dimension": 35.1063829787234,
+            "children": [
+              {
+                "id": "fed3c22bd867b2ed",
+                "type": "leaf",
+                "state": {
+                  "type": "canvas",
+                  "state": {
+                    "file": "paper/LIPIcs.WABI.2020.15/Canvas.canvas",
+                    "viewState": {
+                      "x": 175,
+                      "y": 946.5,
+                      "zoom": 0
+                    }
+                  }
+                }
               }
-            }
+            ]
           }
-        ]
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -61,7 +76,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#test",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,8 +113,8 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "paper/LIPIcs.WABI.2020.15/Canvas.canvas",
-                "collapseAll": false,
+                "file": "paper/LIPIcs.WABI.2020.15/Note.md",
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -115,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "paper/LIPIcs.WABI.2020.15/Canvas.canvas",
+                "file": "paper/LIPIcs.WABI.2020.15/Note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +143,7 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": false
               }
             }
           },
@@ -138,25 +153,29 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "paper/LIPIcs.WABI.2020.15/Canvas.canvas"
+                "file": "paper/LIPIcs.WABI.2020.15/Note.md"
               }
             }
           },
           {
-            "id": "0e481ee264c8e241",
+            "id": "670cf176b1e64efc",
             "type": "leaf",
             "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "paper/LIPIcs.WABI.2020.15/Note.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 357.5,
-    "collapsed": true
+    "width": 475.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -170,28 +189,20 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "8c589fe0a6aff877",
+  "active": "670cf176b1e64efc",
   "lastOpenFiles": [
     "paper/LIPIcs.WABI.2020.15/RawNote.md",
-    "paper/LIPIcs.WABI.2020.15/Canvas.canvas",
-    "SMCT.md",
-    "Untitled.md",
     "paper/LIPIcs.WABI.2020.15/LIPIcs.WABI.2020.15.pdf",
     "paper/LIPIcs.WABI.2020.15/Note.md",
-    "Presentation Skills.md",
+    "paper/LIPIcs.WABI.2020.15/Canvas.canvas",
+    "未命名.md",
     "paper/LIPIcs.WABI.2020.15",
-    "Canvas.canvas",
-    "Excalidraw/Drawing 2023-12-01 16.31.26.excalidraw.md",
-    "paper/LIPIcs.WABI.2020.15.pdf",
+    "supertree.md",
     "test.md",
-    "Excalidraw/Drawing 2023-12-01 16.28.03.excalidraw.md",
-    "Excalidraw/Drawing 2023-12-01 16.30.19.excalidraw.md",
-    "Excalidraw",
-    "TEST.md",
-    "未命名",
-    "test_annotator.md",
-    "paper",
     "attachments/rs-optimal.png",
+    "Presentation Skills.md",
+    "paper",
+    "Canvas.canvas",
     "^1.md",
     "最新進度.md",
     "attachments/靈堂.png",
