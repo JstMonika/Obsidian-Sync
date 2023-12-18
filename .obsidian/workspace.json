@@ -19,8 +19,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "2920920648a05720",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "paper/LIPIcs.WABI.2020.15/Notation.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Presentation Skills.md",
+                "file": "paper/LIPIcs.WABI.2020.15/Notation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Presentation Skills.md",
+                "file": "paper/LIPIcs.WABI.2020.15/Notation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Presentation Skills.md"
+                "file": "paper/LIPIcs.WABI.2020.15/Notation.md"
               }
             }
           },
@@ -139,12 +153,11 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 357.5,
-    "collapsed": true
+    "width": 357.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -158,8 +171,11 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "8c589fe0a6aff877",
+  "active": "2920920648a05720",
   "lastOpenFiles": [
+    "attachments/ps_table_1.md",
+    "paper/LIPIcs.WABI.2020.15/Notation.md",
+    "Presentation Skills.md",
     "paper/LIPIcs.WABI.2020.15/Canvas.canvas",
     "paper/LIPIcs.WABI.2020.15/Note.md",
     "RawNote.md",
@@ -171,7 +187,6 @@
     "未命名",
     "SMCT.md",
     "Untitled.md",
-    "Presentation Skills.md",
     "paper/LIPIcs.WABI.2020.15",
     "Canvas.canvas",
     "Excalidraw/Drawing 2023-12-01 16.31.26.excalidraw.md",
@@ -188,7 +203,6 @@
     "最新進度.md",
     "attachments/靈堂.png",
     "靈堂.png",
-    "attachments/ps_table_1.md",
     "attachments",
     "attachment"
   ]
