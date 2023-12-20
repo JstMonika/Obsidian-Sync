@@ -1,5 +1,6 @@
 {
 	"nodes":[
+		{"id":"cdbc87eeb323eb75","x":-641,"y":350,"width":2591,"height":710,"type":"group","label":"犯罪的階層化審查"},
 		{"id":"1af4f0b15672cf62","type":"text","text":"罪刑法定原則","x":0,"y":-154,"width":250,"height":60},
 		{"id":"f2c2fbe1a8db735a","type":"text","text":"中華民國刑法","x":-560,"y":-154,"width":160,"height":60},
 		{"id":"420e86d967af5b24","type":"text","text":"不利益習慣法之禁止","x":200,"y":0,"width":250,"height":60},
@@ -27,7 +28,16 @@
 		{"id":"e2f2565d399eed8e","type":"text","text":"作為犯 vs. 不作為犯","x":-454,"y":1260,"width":250,"height":60},
 		{"id":"9d132a8a7f77c2af","type":"text","text":"犯罪類型","x":-704,"y":1160,"width":250,"height":60},
 		{"id":"60150d35039c1292","type":"text","text":"具備保證人地位為前提（防果義務）","x":51,"y":1460,"width":325,"height":60},
-		{"id":"e9e01b956fe8527f","x":-454,"y":1560,"width":250,"height":60,"type":"text","text":"行為犯 vs. 結果犯"}
+		{"id":"e9e01b956fe8527f","type":"text","text":"行為犯 vs. 結果犯","x":-454,"y":1560,"width":250,"height":60},
+		{"id":"499ac96eb41dcb5f","type":"text","text":"實害犯 vs. 危險犯","x":-454,"y":1680,"width":250,"height":60},
+		{"id":"a02aec246cb94c44","type":"text","text":"抽象危險犯 = 行為犯","x":-270,"y":1780,"width":250,"height":60},
+		{"id":"a0962989005ee38b","type":"text","text":"具體危險犯 $\\subset$ 結果犯","x":-270,"y":1880,"width":250,"height":60},
+		{"id":"d43386ae49fa886b","type":"text","text":"具體危險犯","x":585,"y":1880,"width":250,"height":60},
+		{"id":"d15ee936d6183476","type":"text","text":"抽象危險犯","x":585,"y":2000,"width":250,"height":60},
+		{"id":"d1cb3d417029cb92","type":"text","text":"實害犯","x":214,"y":1740,"width":250,"height":60},
+		{"id":"55ce753b3aba8153","type":"text","text":"危險犯","x":214,"y":1930,"width":250,"height":60},
+		{"id":"616b30c40ba851d5","x":905,"y":1740,"width":250,"height":60,"type":"text","text":"結果犯"},
+		{"id":"687bccd087c678c3","x":905,"y":2000,"width":250,"height":60,"type":"text","text":"行為犯"}
 	],
 	"edges":[
 		{"id":"dc753ca3aac91bf4","fromNode":"f2c2fbe1a8db735a","fromSide":"right","toNode":"1af4f0b15672cf62","toSide":"left"},
@@ -55,6 +65,14 @@
 		{"id":"7189e119b3286cdb","fromNode":"e2f2565d399eed8e","fromSide":"bottom","toNode":"3fd375265f9e623e","toSide":"left"},
 		{"id":"b8cec18e37c8a2ca","fromNode":"9d132a8a7f77c2af","fromSide":"bottom","toNode":"e2f2565d399eed8e","toSide":"left"},
 		{"id":"9d36e2481095ba61","fromNode":"3fd375265f9e623e","fromSide":"right","toNode":"60150d35039c1292","toSide":"left"},
-		{"id":"2d4f78d6249d502c","fromNode":"9d132a8a7f77c2af","fromSide":"bottom","toNode":"e9e01b956fe8527f","toSide":"left"}
+		{"id":"2d4f78d6249d502c","fromNode":"9d132a8a7f77c2af","fromSide":"bottom","toNode":"e9e01b956fe8527f","toSide":"left"},
+		{"id":"a52657db4c8fd15f","fromNode":"499ac96eb41dcb5f","fromSide":"bottom","toNode":"a02aec246cb94c44","toSide":"left"},
+		{"id":"4e639681037e292f","fromNode":"499ac96eb41dcb5f","fromSide":"bottom","toNode":"a0962989005ee38b","toSide":"left"},
+		{"id":"1d933d8c86b6a320","fromNode":"55ce753b3aba8153","fromSide":"right","toNode":"d43386ae49fa886b","toSide":"left"},
+		{"id":"0b5fc7111739881e","fromNode":"55ce753b3aba8153","fromSide":"right","toNode":"d15ee936d6183476","toSide":"left"},
+		{"id":"9940a00bce6a523c","fromNode":"d15ee936d6183476","fromSide":"right","toNode":"687bccd087c678c3","toSide":"left"},
+		{"id":"8ef27279d30fc2c8","fromNode":"d1cb3d417029cb92","fromSide":"right","toNode":"616b30c40ba851d5","toSide":"left"},
+		{"id":"4950148b7aea54d5","fromNode":"d43386ae49fa886b","fromSide":"right","toNode":"616b30c40ba851d5","toSide":"left"},
+		{"id":"c50ad4c9d180b286","fromNode":"d1cb3d417029cb92","fromSide":"left","toNode":"55ce753b3aba8153","toSide":"left","toEnd":"none"}
 	]
 }
