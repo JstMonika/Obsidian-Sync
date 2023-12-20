@@ -4,53 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "682e0b954493264c",
-        "type": "split",
+        "id": "4812d19af7622795",
+        "type": "tabs",
         "children": [
           {
-            "id": "4812d19af7622795",
-            "type": "tabs",
-            "dimension": 64.8936170212766,
-            "children": [
-              {
-                "id": "a0d4aefcdaad22af",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Presentation Skills.md",
-                    "mode": "source",
-                    "backlinks": true,
-                    "source": false
-                  }
+            "id": "5e26860307651699",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "刑法總則.canvas",
+                "viewState": {
+                  "x": 331.82675823860546,
+                  "y": 474.22030392293595,
+                  "zoom": -1.2074362385197792
                 }
               }
-            ]
+            }
           },
           {
-            "id": "3377a3466a76d63e",
-            "type": "tabs",
-            "dimension": 35.1063829787234,
-            "children": [
-              {
-                "id": "fed3c22bd867b2ed",
-                "type": "leaf",
-                "state": {
-                  "type": "canvas",
-                  "state": {
-                    "file": "paper/LIPIcs.WABI.2020.15/Canvas.canvas",
-                    "viewState": {
-                      "x": 1090.9998779296875,
-                      "y": 725.6668701171875,
-                      "zoom": 0
-                    }
-                  }
-                }
+            "id": "f83d99f0cdb1e62c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
-            ]
+            }
           }
         ],
-        "direction": "horizontal"
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -116,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Presentation Skills.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Presentation Skills.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,29 +142,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Presentation Skills.md"
-              }
-            }
-          },
-          {
-            "id": "670cf176b1e64efc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "paper/LIPIcs.WABI.2020.15/Note.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 475.5
+    "width": 322.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -192,10 +165,15 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "a0d4aefcdaad22af",
+  "active": "f83d99f0cdb1e62c",
   "lastOpenFiles": [
-    "paper/LIPIcs.WABI.2020.15/Canvas.canvas",
+    "刑法總則.canvas",
+    "conflict-files-obsidian-git.md",
+    "paper/LIPIcs.WABI.2020.15/Notation.md",
     "Presentation Skills.md",
+    "paper/LIPIcs.WABI.2020.15/reference/2.Robinson-Foulds Supertrees.pdf",
+    "paper/LIPIcs.WABI.2020.15/reference",
+    "paper/LIPIcs.WABI.2020.15/Canvas.canvas",
     "paper/LIPIcs.WABI.2020.15/Note.md",
     "paper/LIPIcs.WABI.2020.15/RawNote.md",
     "paper/LIPIcs.WABI.2020.15/LIPIcs.WABI.2020.15.pdf",
