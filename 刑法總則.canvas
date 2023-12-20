@@ -22,7 +22,12 @@
 		{"id":"97bdb25910a6c46f","type":"text","text":"有責性","x":1460,"y":520,"width":250,"height":60,"color":"4"},
 		{"id":"c2c0d1b3aff57391","type":"text","text":"其他超法規阻卻違法事由","x":662,"y":790,"width":250,"height":60,"color":"5"},
 		{"id":"36a260d6437c3d98","type":"text","text":"責任能力與期待可能性","x":1680,"y":650,"width":250,"height":60,"color":"4"},
-		{"id":"9d132a8a7f77c2af","type":"text","text":"犯罪類型","x":-605,"y":1160,"width":250,"height":60}
+		{"id":"c0bb62d661a6b5f1","type":"text","text":"純正不作為犯","x":-270,"y":1380,"width":250,"height":60},
+		{"id":"3fd375265f9e623e","type":"text","text":"不純正不作為犯","x":-270,"y":1460,"width":250,"height":60},
+		{"id":"e2f2565d399eed8e","type":"text","text":"作為犯 vs. 不作為犯","x":-454,"y":1260,"width":250,"height":60},
+		{"id":"9d132a8a7f77c2af","type":"text","text":"犯罪類型","x":-704,"y":1160,"width":250,"height":60},
+		{"id":"60150d35039c1292","type":"text","text":"具備保證人地位為前提（防果義務）","x":51,"y":1460,"width":325,"height":60},
+		{"id":"e9e01b956fe8527f","x":-454,"y":1560,"width":250,"height":60,"type":"text","text":"行為犯 vs. 結果犯"}
 	],
 	"edges":[
 		{"id":"dc753ca3aac91bf4","fromNode":"f2c2fbe1a8db735a","fromSide":"right","toNode":"1af4f0b15672cf62","toSide":"left"},
@@ -45,6 +50,11 @@
 		{"id":"ce6c4f850e294a1a","fromNode":"e398d5548c2b7000","fromSide":"right","toNode":"53c2beb08b348876","toSide":"left","color":"5"},
 		{"id":"ab8b2e9ec0178fbe","fromNode":"e398d5548c2b7000","fromSide":"right","toNode":"e851eceae8db932f","toSide":"left","color":"5"},
 		{"id":"8ef7200d89b1b3f2","fromNode":"ba9f7b39341507ba","fromSide":"bottom","toNode":"c2c0d1b3aff57391","toSide":"left","color":"5"},
-		{"id":"0f52dfd86ee7d52b","fromNode":"97bdb25910a6c46f","fromSide":"bottom","toNode":"36a260d6437c3d98","toSide":"left","color":"4"}
+		{"id":"0f52dfd86ee7d52b","fromNode":"97bdb25910a6c46f","fromSide":"bottom","toNode":"36a260d6437c3d98","toSide":"left","color":"4"},
+		{"id":"e728d15c97292a99","fromNode":"e2f2565d399eed8e","fromSide":"bottom","toNode":"c0bb62d661a6b5f1","toSide":"left"},
+		{"id":"7189e119b3286cdb","fromNode":"e2f2565d399eed8e","fromSide":"bottom","toNode":"3fd375265f9e623e","toSide":"left"},
+		{"id":"b8cec18e37c8a2ca","fromNode":"9d132a8a7f77c2af","fromSide":"bottom","toNode":"e2f2565d399eed8e","toSide":"left"},
+		{"id":"9d36e2481095ba61","fromNode":"3fd375265f9e623e","fromSide":"right","toNode":"60150d35039c1292","toSide":"left"},
+		{"id":"2d4f78d6249d502c","fromNode":"9d132a8a7f77c2af","fromSide":"bottom","toNode":"e9e01b956fe8527f","toSide":"left"}
 	]
 }
