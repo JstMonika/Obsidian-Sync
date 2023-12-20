@@ -36,3 +36,5 @@
 	1. 找可以improve的 (open problem)
 	2. 如已有optimal solution就跳過，除非不同意他的optimal solution
 	3. Skip biology related future work.
+16. 聽眾問問題 $\rightarrow$ 可能是自己投影片有問題
+	1. 補投影片

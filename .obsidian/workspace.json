@@ -8,33 +8,21 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8c589fe0a6aff877",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Presentation Skills.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "2920920648a05720",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "paper/LIPIcs.WABI.2020.15/Notation.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "刑法總則.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "paper/LIPIcs.WABI.2020.15/Notation.md",
+                "file": "刑法總則.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "paper/LIPIcs.WABI.2020.15/Notation.md",
+                "file": "刑法總則.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "paper/LIPIcs.WABI.2020.15/Notation.md"
+                "file": "刑法總則.canvas"
               }
             }
           },
@@ -157,7 +145,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 357.5
+    "width": 357.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -171,11 +160,13 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "2920920648a05720",
+  "active": "0e481ee264c8e241",
   "lastOpenFiles": [
-    "attachments/ps_table_1.md",
-    "paper/LIPIcs.WABI.2020.15/Notation.md",
+    "刑法總則.canvas",
+    "未命名.md",
     "Presentation Skills.md",
+    "paper/LIPIcs.WABI.2020.15/Notation.md",
+    "attachments/ps_table_1.md",
     "paper/LIPIcs.WABI.2020.15/Canvas.canvas",
     "paper/LIPIcs.WABI.2020.15/Note.md",
     "RawNote.md",
