@@ -1,15 +1,47 @@
 {
 	"nodes":[
-		{"id":"1af4f0b15672cf62","x":0,"y":-154,"width":250,"height":60,"type":"text","text":"罪刑法定原則"},
-		{"id":"f2c2fbe1a8db735a","x":-560,"y":-154,"width":160,"height":60,"type":"text","text":"中華民國刑法"},
-		{"id":"420e86d967af5b24","x":200,"y":0,"width":250,"height":60,"type":"text","text":"不利益習慣法之禁止"},
-		{"id":"a2c6b92d0ea880fb","x":200,"y":100,"width":250,"height":60,"type":"text","text":"不利益溯及既往之禁止"},
-		{"id":"90e10b76ba7c9382","x":200,"y":200,"width":250,"height":60,"type":"text","text":"不利益類推適用之禁止"}
+		{"id":"1af4f0b15672cf62","type":"text","text":"罪刑法定原則","x":0,"y":-154,"width":250,"height":60},
+		{"id":"f2c2fbe1a8db735a","type":"text","text":"中華民國刑法","x":-560,"y":-154,"width":160,"height":60},
+		{"id":"420e86d967af5b24","type":"text","text":"不利益習慣法之禁止","x":200,"y":0,"width":250,"height":60},
+		{"id":"a2c6b92d0ea880fb","type":"text","text":"不利益溯及既往之禁止","x":200,"y":100,"width":250,"height":60},
+		{"id":"e1c4dfc82d61a080","type":"text","text":"成文構成要件","x":126,"y":620,"width":250,"height":60},
+		{"id":"dcace4a270b5a046","type":"text","text":"不成文構成要件與客觀歸責","x":126,"y":710,"width":250,"height":60},
+		{"id":"b1f35a465f495ed6","type":"text","text":"不法性","x":-621,"y":370,"width":122,"height":50,"color":"3"},
+		{"id":"663e3392a4429f96","type":"text","text":"構成要件該當性","x":-406,"y":520,"width":250,"height":60,"color":"3"},
+		{"id":"f27089bf2cba3aa1","type":"text","text":"客觀構成要件","x":-204,"y":620,"width":250,"height":60},
+		{"id":"90e10b76ba7c9382","type":"text","text":"不利益類推適用之禁止","x":201,"y":200,"width":250,"height":60},
+		{"id":"ba9f7b39341507ba","type":"text","text":"違法性","x":450,"y":520,"width":250,"height":60,"color":"3"},
+		{"id":"e8bfd7762732362e","type":"text","text":"主觀構成要件","x":-204,"y":820,"width":250,"height":60},
+		{"id":"414084d570028b5e","x":126,"y":820,"width":250,"height":60,"type":"text","text":"故意"},
+		{"id":"6ad564bcd62f3757","x":126,"y":920,"width":250,"height":60,"type":"text","text":"過失"},
+		{"id":"e398d5548c2b7000","x":662,"y":650,"width":250,"height":60,"type":"text","text":"法定阻卻違法事由"},
+		{"id":"e851eceae8db932f","x":1065,"y":980,"width":250,"height":60,"type":"text","text":"緊急避難"},
+		{"id":"53c2beb08b348876","x":1065,"y":860,"width":250,"height":60,"type":"text","text":"正當防衛"},
+		{"id":"2c0aca742914f7a3","x":1065,"y":754,"width":250,"height":60,"type":"text","text":"業務上正當行為"},
+		{"id":"4d915690c9b239aa","x":1065,"y":650,"width":250,"height":60,"type":"text","text":"依法令之行為"},
+		{"id":"97bdb25910a6c46f","type":"text","text":"有責性","x":1460,"y":520,"width":250,"height":60},
+		{"id":"c2c0d1b3aff57391","x":662,"y":790,"width":250,"height":60,"type":"text","text":"其他超法規阻卻違法事由"}
 	],
 	"edges":[
 		{"id":"dc753ca3aac91bf4","fromNode":"f2c2fbe1a8db735a","fromSide":"right","toNode":"1af4f0b15672cf62","toSide":"left"},
 		{"id":"0be81cf0d11aad2d","fromNode":"1af4f0b15672cf62","fromSide":"bottom","toNode":"420e86d967af5b24","toSide":"left"},
 		{"id":"0abac16ad6038029","fromNode":"1af4f0b15672cf62","fromSide":"bottom","toNode":"a2c6b92d0ea880fb","toSide":"left"},
-		{"id":"2e080ac438162c16","fromNode":"1af4f0b15672cf62","fromSide":"bottom","toNode":"90e10b76ba7c9382","toSide":"left"}
+		{"id":"2e080ac438162c16","fromNode":"1af4f0b15672cf62","fromSide":"bottom","toNode":"90e10b76ba7c9382","toSide":"left"},
+		{"id":"d9013782bdfaa44a","fromNode":"663e3392a4429f96","fromSide":"right","toNode":"ba9f7b39341507ba","toSide":"left","color":"3"},
+		{"id":"85a76b85d86f9d9a","fromNode":"ba9f7b39341507ba","fromSide":"right","toNode":"97bdb25910a6c46f","toSide":"left"},
+		{"id":"7afe5098e1e2eef1","fromNode":"b1f35a465f495ed6","fromSide":"right","toNode":"663e3392a4429f96","toSide":"top","color":"3"},
+		{"id":"614e00bf748adfbd","fromNode":"b1f35a465f495ed6","fromSide":"right","toNode":"ba9f7b39341507ba","toSide":"top","color":"3"},
+		{"id":"31dc8cc03864eac3","fromNode":"663e3392a4429f96","fromSide":"bottom","toNode":"f27089bf2cba3aa1","toSide":"left"},
+		{"id":"a01cb722e87ecd0d","fromNode":"663e3392a4429f96","fromSide":"bottom","toNode":"e8bfd7762732362e","toSide":"left"},
+		{"id":"d3730db1bcf8ea02","fromNode":"f27089bf2cba3aa1","fromSide":"right","toNode":"e1c4dfc82d61a080","toSide":"left"},
+		{"id":"529a3ba609f185e9","fromNode":"f27089bf2cba3aa1","fromSide":"right","toNode":"dcace4a270b5a046","toSide":"left"},
+		{"id":"5c66268ab1323120","fromNode":"e8bfd7762732362e","fromSide":"right","toNode":"414084d570028b5e","toSide":"left"},
+		{"id":"63c6306899b0385c","fromNode":"e8bfd7762732362e","fromSide":"right","toNode":"6ad564bcd62f3757","toSide":"left"},
+		{"id":"949c99262f787c20","fromNode":"ba9f7b39341507ba","fromSide":"bottom","toNode":"e398d5548c2b7000","toSide":"left"},
+		{"id":"bb68830a7c7b31c9","fromNode":"e398d5548c2b7000","fromSide":"right","toNode":"4d915690c9b239aa","toSide":"left"},
+		{"id":"8b57f7596f3b766f","fromNode":"e398d5548c2b7000","fromSide":"right","toNode":"2c0aca742914f7a3","toSide":"left"},
+		{"id":"ce6c4f850e294a1a","fromNode":"e398d5548c2b7000","fromSide":"right","toNode":"53c2beb08b348876","toSide":"left"},
+		{"id":"ab8b2e9ec0178fbe","fromNode":"e398d5548c2b7000","fromSide":"right","toNode":"e851eceae8db932f","toSide":"left"},
+		{"id":"8ef7200d89b1b3f2","fromNode":"ba9f7b39341507ba","fromSide":"bottom","toNode":"c2c0d1b3aff57391","toSide":"left"}
 	]
 }
