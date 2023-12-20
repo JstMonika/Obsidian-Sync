@@ -2,10 +2,14 @@
 	"nodes":[
 		{"id":"1af4f0b15672cf62","x":0,"y":-154,"width":250,"height":60,"type":"text","text":"罪刑法定原則"},
 		{"id":"f2c2fbe1a8db735a","x":-560,"y":-154,"width":160,"height":60,"type":"text","text":"中華民國刑法"},
-		{"id":"420e86d967af5b24","x":200,"y":0,"width":250,"height":60,"type":"text","text":"不利益習慣法之禁止"}
+		{"id":"420e86d967af5b24","x":200,"y":0,"width":250,"height":60,"type":"text","text":"不利益習慣法之禁止"},
+		{"id":"a2c6b92d0ea880fb","x":200,"y":100,"width":250,"height":60,"type":"text","text":"不利益溯及既往之禁止"},
+		{"id":"90e10b76ba7c9382","x":200,"y":200,"width":250,"height":60,"type":"text","text":"不利益類推適用之禁止"}
 	],
 	"edges":[
 		{"id":"dc753ca3aac91bf4","fromNode":"f2c2fbe1a8db735a","fromSide":"right","toNode":"1af4f0b15672cf62","toSide":"left"},
-		{"id":"0be81cf0d11aad2d","fromNode":"1af4f0b15672cf62","fromSide":"bottom","toNode":"420e86d967af5b24","toSide":"left"}
+		{"id":"0be81cf0d11aad2d","fromNode":"1af4f0b15672cf62","fromSide":"bottom","toNode":"420e86d967af5b24","toSide":"left"},
+		{"id":"0abac16ad6038029","fromNode":"1af4f0b15672cf62","fromSide":"bottom","toNode":"a2c6b92d0ea880fb","toSide":"left"},
+		{"id":"2e080ac438162c16","fromNode":"1af4f0b15672cf62","fromSide":"bottom","toNode":"90e10b76ba7c9382","toSide":"left"}
 	]
 }
