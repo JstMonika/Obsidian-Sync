@@ -16,9 +16,12 @@
                 "id": "a0d4aefcdaad22af",
                 "type": "leaf",
                 "state": {
-                  "type": "pdf-annotator",
+                  "type": "markdown",
                   "state": {
-                    "file": "paper/LIPIcs.WABI.2020.15/RawNote.md"
+                    "file": "Presentation Skills.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
                   }
                 }
               }
@@ -37,8 +40,8 @@
                   "state": {
                     "file": "paper/LIPIcs.WABI.2020.15/Canvas.canvas",
                     "viewState": {
-                      "x": 175,
-                      "y": 946.5,
+                      "x": 1090.9998779296875,
+                      "y": 725.6668701171875,
                       "zoom": 0
                     }
                   }
@@ -113,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "paper/LIPIcs.WABI.2020.15/Note.md",
+                "file": "Presentation Skills.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "paper/LIPIcs.WABI.2020.15/Note.md",
+                "file": "Presentation Skills.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "paper/LIPIcs.WABI.2020.15/Note.md"
+                "file": "Presentation Skills.md"
               }
             }
           },
@@ -189,18 +192,18 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "670cf176b1e64efc",
+  "active": "a0d4aefcdaad22af",
   "lastOpenFiles": [
+    "paper/LIPIcs.WABI.2020.15/Canvas.canvas",
+    "Presentation Skills.md",
+    "paper/LIPIcs.WABI.2020.15/Note.md",
     "paper/LIPIcs.WABI.2020.15/RawNote.md",
     "paper/LIPIcs.WABI.2020.15/LIPIcs.WABI.2020.15.pdf",
-    "paper/LIPIcs.WABI.2020.15/Note.md",
-    "paper/LIPIcs.WABI.2020.15/Canvas.canvas",
     "未命名.md",
     "paper/LIPIcs.WABI.2020.15",
     "supertree.md",
     "test.md",
     "attachments/rs-optimal.png",
-    "Presentation Skills.md",
     "paper",
     "Canvas.canvas",
     "^1.md",
