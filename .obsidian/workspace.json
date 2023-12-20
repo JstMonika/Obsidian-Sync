@@ -15,28 +15,14 @@
               "state": {
                 "file": "刑法總則.canvas",
                 "viewState": {
-                  "x": 331.82675823860546,
-                  "y": 474.22030392293595,
-                  "zoom": -1.2074362385197792
+                  "x": -331.67152082625284,
+                  "y": 1301.3214346054795,
+                  "zoom": -0.20743623851977938
                 }
               }
             }
-          },
-          {
-            "id": "f83d99f0cdb1e62c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -102,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "刑法總則.canvas",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "刑法總則.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "刑法總則.canvas"
               }
             }
           }
@@ -151,7 +137,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 322.5
+    "width": 322.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -165,10 +152,10 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "f83d99f0cdb1e62c",
+  "active": "5e26860307651699",
   "lastOpenFiles": [
-    "刑法總則.canvas",
     "conflict-files-obsidian-git.md",
+    "刑法總則.canvas",
     "paper/LIPIcs.WABI.2020.15/Notation.md",
     "Presentation Skills.md",
     "paper/LIPIcs.WABI.2020.15/reference/2.Robinson-Foulds Supertrees.pdf",
