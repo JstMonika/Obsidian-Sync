@@ -1,1 +1,11 @@
-{}
+{
+	"nodes":[
+		{"id":"1af4f0b15672cf62","x":0,"y":-154,"width":250,"height":60,"type":"text","text":"罪刑法定原則"},
+		{"id":"f2c2fbe1a8db735a","x":-560,"y":-154,"width":160,"height":60,"type":"text","text":"中華民國刑法"},
+		{"id":"420e86d967af5b24","x":200,"y":0,"width":250,"height":60,"type":"text","text":"不利益習慣法之禁止"}
+	],
+	"edges":[
+		{"id":"dc753ca3aac91bf4","fromNode":"f2c2fbe1a8db735a","fromSide":"right","toNode":"1af4f0b15672cf62","toSide":"left"},
+		{"id":"0be81cf0d11aad2d","fromNode":"1af4f0b15672cf62","fromSide":"bottom","toNode":"420e86d967af5b24","toSide":"left"}
+	]
+}

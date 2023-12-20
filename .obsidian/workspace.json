@@ -15,8 +15,8 @@
               "state": {
                 "file": "刑法總則.canvas",
                 "viewState": {
-                  "x": 0,
-                  "y": 0,
+                  "x": 125,
+                  "y": -124,
                   "zoom": 0
                 }
               }
@@ -160,7 +160,7 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "0e481ee264c8e241",
+  "active": "2920920648a05720",
   "lastOpenFiles": [
     "刑法總則.canvas",
     "未命名.md",
