@@ -21,7 +21,8 @@
 		{"id":"4d915690c9b239aa","x":1065,"y":650,"width":250,"height":60,"color":"5","type":"text","text":"依法令之行為"},
 		{"id":"97bdb25910a6c46f","type":"text","text":"有責性","x":1460,"y":520,"width":250,"height":60,"color":"4"},
 		{"id":"c2c0d1b3aff57391","x":662,"y":790,"width":250,"height":60,"color":"5","type":"text","text":"其他超法規阻卻違法事由"},
-		{"id":"36a260d6437c3d98","x":1680,"y":650,"width":250,"height":60,"color":"4","type":"text","text":"責任能力與期待可能性"}
+		{"id":"36a260d6437c3d98","x":1680,"y":650,"width":250,"height":60,"color":"4","type":"text","text":"責任能力與期待可能性"},
+		{"id":"9d132a8a7f77c2af","x":-696,"y":1153,"width":250,"height":60,"type":"text","text":"犯罪類型"}
 	],
 	"edges":[
 		{"id":"dc753ca3aac91bf4","fromNode":"f2c2fbe1a8db735a","fromSide":"right","toNode":"1af4f0b15672cf62","toSide":"left"},
