@@ -4,39 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "e50e828674e4dae8",
+        "id": "4812d19af7622795",
         "type": "tabs",
         "children": [
           {
-            "id": "2920920648a05720",
+            "id": "5e26860307651699",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
                 "file": "刑法總則.canvas",
                 "viewState": {
-                  "x": 977.0007618791365,
-                  "y": 1600.5200463383069,
-                  "zoom": -0.6666665649414062
+                  "x": 623,
+                  "y": 953,
+                  "zoom": -0.8716481746195955
                 }
               }
             }
-          },
-          {
-            "id": "f14bd3f09af4afea",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "test.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -65,7 +51,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#test",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -102,8 +88,8 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "test.md",
-                "collapseAll": false,
+                "file": "刑法總則.canvas",
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -119,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "test.md",
+                "file": "刑法總則.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +118,7 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": false
               }
             }
           },
@@ -142,24 +128,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "test.md"
+                "file": "刑法總則.canvas"
               }
-            }
-          },
-          {
-            "id": "0e481ee264c8e241",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 357.5,
+    "width": 322.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -174,40 +152,30 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "f14bd3f09af4afea",
+  "active": "5e26860307651699",
   "lastOpenFiles": [
+    "paper/LIPIcs.WABI.2020.15/Canvas.canvas",
     "刑法總則.canvas",
     "test.md",
-    "Presentation Skills.md",
+    "conflict-files-obsidian-git.md",
     "paper/LIPIcs.WABI.2020.15/Notation.md",
-    "attachments/ps_table_1.md",
-    "paper/LIPIcs.WABI.2020.15/Canvas.canvas",
-    "paper/LIPIcs.WABI.2020.15/Note.md",
-    "RawNote.md",
-    "paper/LIPIcs.WABI.2020.15/LIPIcs.WABI.2020.15.pdf",
+    "Presentation Skills.md",
     "paper/LIPIcs.WABI.2020.15/reference/2.Robinson-Foulds Supertrees.pdf",
-    "paper/LIPIcs.WABI.2020.15/RawNote.md",
-    "paper/LIPIcs.WABI.2020.15/reference/(2) Robinson-Foulds supertrees.md",
     "paper/LIPIcs.WABI.2020.15/reference",
-    "未命名",
-    "SMCT.md",
-    "Untitled.md",
+    "paper/LIPIcs.WABI.2020.15/Note.md",
+    "paper/LIPIcs.WABI.2020.15/RawNote.md",
+    "paper/LIPIcs.WABI.2020.15/LIPIcs.WABI.2020.15.pdf",
+    "未命名.md",
     "paper/LIPIcs.WABI.2020.15",
-    "Canvas.canvas",
-    "Excalidraw/Drawing 2023-12-01 16.31.26.excalidraw.md",
-    "paper/LIPIcs.WABI.2020.15.pdf",
-    "test.md",
-    "Excalidraw/Drawing 2023-12-01 16.28.03.excalidraw.md",
-    "Excalidraw/Drawing 2023-12-01 16.30.19.excalidraw.md",
-    "Excalidraw",
-    "TEST.md",
-    "test_annotator.md",
-    "paper",
+    "supertree.md",
     "attachments/rs-optimal.png",
+    "paper",
+    "Canvas.canvas",
     "^1.md",
     "最新進度.md",
     "attachments/靈堂.png",
     "靈堂.png",
+    "attachments/ps_table_1.md",
     "attachments",
     "attachment"
   ]
