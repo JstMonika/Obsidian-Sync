@@ -15,14 +15,28 @@
               "state": {
                 "file": "刑法總則.canvas",
                 "viewState": {
-                  "x": 243.62152758082354,
-                  "y": 740.1487518543488,
+                  "x": 977.0007618791365,
+                  "y": 1600.5200463383069,
                   "zoom": -0.6666665649414062
                 }
               }
             }
+          },
+          {
+            "id": "f14bd3f09af4afea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "test.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -88,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "刑法總則.canvas",
+                "file": "test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "刑法總則.canvas",
+                "file": "test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "刑法總則.canvas"
+                "file": "test.md"
               }
             }
           },
@@ -160,10 +174,10 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "2920920648a05720",
+  "active": "f14bd3f09af4afea",
   "lastOpenFiles": [
     "刑法總則.canvas",
-    "未命名.md",
+    "test.md",
     "Presentation Skills.md",
     "paper/LIPIcs.WABI.2020.15/Notation.md",
     "attachments/ps_table_1.md",
