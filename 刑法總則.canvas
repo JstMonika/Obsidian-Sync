@@ -39,7 +39,8 @@
 		{"id":"d43386ae49fa886b","type":"text","text":"具體危險犯","x":1360,"y":1900,"width":250,"height":60},
 		{"id":"55ce753b3aba8153","type":"text","text":"危險犯","x":989,"y":1950,"width":250,"height":60},
 		{"id":"687bccd087c678c3","type":"text","text":"行為犯","x":1680,"y":2020,"width":250,"height":60},
-		{"id":"7b6461f3e286489c","type":"file","file":"構成要件該當性.md","x":-621,"y":1160,"width":640,"height":270}
+		{"id":"7b6461f3e286489c","type":"file","file":"構成要件該當性.md","x":-621,"y":1160,"width":640,"height":270},
+		{"id":"2ae1cedee52c16cd","x":-621,"y":1480,"width":640,"height":220,"type":"file","file":"因果關係.md"}
 	],
 	"edges":[
 		{"id":"dc753ca3aac91bf4","fromNode":"f2c2fbe1a8db735a","fromSide":"right","toNode":"1af4f0b15672cf62","toSide":"left"},
