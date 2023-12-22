@@ -39,7 +39,7 @@
 		{"id":"687bccd087c678c3","type":"text","text":"行為犯","x":3629,"y":1210,"width":250,"height":60},
 		{"id":"9d132a8a7f77c2af","type":"text","text":"犯罪類型","x":2020,"y":370,"width":250,"height":60},
 		{"id":"e2f2565d399eed8e","type":"text","text":"作為犯 vs. 不作為犯","x":2270,"y":470,"width":250,"height":60},
-		{"id":"2ae1cedee52c16cd","type":"file","file":"因果關係.md","x":-621,"y":1840,"width":640,"height":620,"color":"3"},
+		{"id":"2ae1cedee52c16cd","type":"file","file":"因果關係.md","x":-621,"y":1840,"width":640,"height":720,"color":"3"},
 		{"id":"7b6461f3e286489c","type":"file","file":"構成要件該當性.md","x":-621,"y":1360,"width":640,"height":270,"color":"3"}
 	],
 	"edges":[
