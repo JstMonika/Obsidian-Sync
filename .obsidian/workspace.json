@@ -11,13 +11,26 @@
             "id": "dff89fa3fc53add2",
             "type": "leaf",
             "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c14b751dc170adaf",
+            "type": "leaf",
+            "state": {
               "type": "canvas",
               "state": {
                 "file": "刑法總則.canvas",
                 "viewState": {
-                  "x": -234.7412093925531,
-                  "y": 1497.8578747145764,
-                  "zoom": 0.5081589207335261
+                  "x": 654.5,
+                  "y": 1693.7552270130745,
+                  "zoom": -1.1970846763185756
                 }
               }
             }
@@ -88,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "構成要件該當性.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "構成要件該當性.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "構成要件該當性.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -162,9 +175,10 @@
   },
   "active": "dff89fa3fc53add2",
   "lastOpenFiles": [
+    "刑法總則.canvas",
+    "conflict-files-obsidian-git.md",
     "構成要件該當性.md",
     "構成要件.md",
-    "刑法總則.canvas",
     "Presentation Skills.md",
     "test.md",
     "paper/LIPIcs.WABI.2020.15/Notation.md",
