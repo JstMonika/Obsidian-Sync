@@ -4,39 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "e50e828674e4dae8",
+        "id": "aa184761c98a283b",
         "type": "tabs",
         "children": [
           {
-            "id": "2920920648a05720",
+            "id": "dff89fa3fc53add2",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
                 "file": "刑法總則.canvas",
                 "viewState": {
-                  "x": 977.0007618791365,
-                  "y": 1600.5200463383069,
-                  "zoom": -0.6666665649414062
+                  "x": -234.7412093925531,
+                  "y": 1497.8578747145764,
+                  "zoom": 0.5081589207335261
                 }
               }
             }
-          },
-          {
-            "id": "f14bd3f09af4afea",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "test.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -102,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "test.md",
+                "file": "構成要件該當性.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "test.md",
+                "file": "構成要件該當性.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "test.md"
+                "file": "構成要件該當性.md"
               }
             }
           },
@@ -174,11 +160,13 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "f14bd3f09af4afea",
+  "active": "dff89fa3fc53add2",
   "lastOpenFiles": [
+    "構成要件該當性.md",
+    "構成要件.md",
     "刑法總則.canvas",
-    "test.md",
     "Presentation Skills.md",
+    "test.md",
     "paper/LIPIcs.WABI.2020.15/Notation.md",
     "attachments/ps_table_1.md",
     "paper/LIPIcs.WABI.2020.15/Canvas.canvas",
@@ -196,7 +184,6 @@
     "Canvas.canvas",
     "Excalidraw/Drawing 2023-12-01 16.31.26.excalidraw.md",
     "paper/LIPIcs.WABI.2020.15.pdf",
-    "test.md",
     "Excalidraw/Drawing 2023-12-01 16.28.03.excalidraw.md",
     "Excalidraw/Drawing 2023-12-01 16.30.19.excalidraw.md",
     "Excalidraw",
