@@ -4,20 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "4812d19af7622795",
+        "id": "fca35f1b089fc9e1",
         "type": "tabs",
         "children": [
           {
-            "id": "5e26860307651699",
+            "id": "0426628ce13f88c3",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
                 "file": "刑法總則/刑法總則.canvas",
                 "viewState": {
-                  "x": 582.3700139147315,
-                  "y": 1814.471103439048,
-                  "zoom": 0.5
+                  "x": 669.8550546174912,
+                  "y": 2052.6767030418137,
+                  "zoom": 0.10124050954017272
                 }
               }
             }
@@ -51,7 +51,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#test",
+                "query": "tag:#容許風險",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -68,7 +68,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -137,8 +138,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 322.5,
-    "collapsed": true
+    "width": 322.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -152,12 +152,13 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "5e26860307651699",
+  "active": "0426628ce13f88c3",
   "lastOpenFiles": [
+    "刑法總則/刑法總則.canvas",
+    "容許風險.md",
     "刑法總則/客觀歸責.md",
     "刑法總則/構成要件該當性.md",
     "Lab",
-    "刑法總則/刑法總則.canvas",
     "刑法總則",
     "刑法總則/因果關係.md",
     "Lab/paper/LIPIcs.WABI.2020.15/Canvas.canvas",
