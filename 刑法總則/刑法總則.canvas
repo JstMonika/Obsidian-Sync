@@ -41,7 +41,7 @@
 		{"id":"9d132a8a7f77c2af","type":"text","text":"犯罪類型","x":2020,"y":370,"width":250,"height":60},
 		{"id":"e2f2565d399eed8e","type":"text","text":"作為犯 vs. 不作為犯","x":2270,"y":470,"width":250,"height":60},
 		{"id":"616b30c40ba851d5","type":"text","text":"結果犯","x":3629,"y":950,"width":250,"height":60},
-		{"id":"e8c43fba037727c2","type":"file","file":"刑法總則/客觀歸責.md","x":126,"y":1360,"width":554,"height":412,"color":"3"}
+		{"id":"e8c43fba037727c2","type":"file","file":"刑法總則/客觀歸責.md","x":126,"y":1360,"width":554,"height":520,"color":"3"}
 	],
 	"edges":[
 		{"id":"dc753ca3aac91bf4","fromNode":"f2c2fbe1a8db735a","fromSide":"right","toNode":"1af4f0b15672cf62","toSide":"left"},
@@ -80,6 +80,7 @@
 		{"id":"c50ad4c9d180b286","fromNode":"d1cb3d417029cb92","fromSide":"left","toNode":"55ce753b3aba8153","toSide":"left","toEnd":"none"},
 		{"id":"91177cf3eabb8ffe","fromNode":"7b6461f3e286489c","fromSide":"bottom","toNode":"2ae1cedee52c16cd","toSide":"top"},
 		{"id":"ecc4bfe12f0b73f0","fromNode":"cdbc87eeb323eb75","fromSide":"bottom","toNode":"7b6461f3e286489c","toSide":"top"},
-		{"id":"98285bae51460196","fromNode":"cdbc87eeb323eb75","fromSide":"bottom","toNode":"e8c43fba037727c2","toSide":"top"}
+		{"id":"98285bae51460196","fromNode":"cdbc87eeb323eb75","fromSide":"bottom","toNode":"e8c43fba037727c2","toSide":"top"},
+		{"id":"c66c6d7d24bc85dc","fromNode":"7b6461f3e286489c","fromSide":"right","toNode":"e8c43fba037727c2","toSide":"left"}
 	]
 }
