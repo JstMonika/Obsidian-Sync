@@ -42,11 +42,15 @@
 		{"id":"55ce753b3aba8153","type":"text","text":"危險犯","x":2938,"y":1140,"width":250,"height":60},
 		{"id":"2ae1cedee52c16cd","type":"file","file":"刑法總則/因果關係.md","x":-621,"y":1840,"width":640,"height":900,"color":"3"},
 		{"id":"e8c43fba037727c2","type":"file","file":"刑法總則/客觀歸責.md","x":126,"y":1360,"width":554,"height":520,"color":"3"},
-		{"id":"38416c525d8ddfc3","type":"text","text":"## 反常因果歷程\n* 行為與結果之間除具備條件因果關係，仍需具備***常態關聯性***，亦即行為與結果間沒有產生重大的因果偏異性。\n* 批評：此概念為相當因果關係之復活。\n\t* 回應：異常化事實該考慮，但不是在因果關係的層次。","x":540,"y":2490,"width":540,"height":218},
-		{"id":"5351bf732c5978f7","type":"text","text":"## 構成要件效力範圍內\n* 規範之目的以外之結果實現，不可歸責。\n* 縱使行為人違反了規範義務，但其所違反之規範，規範目的必須與最後實現的結果相關。","x":540,"y":2730,"width":540,"height":180},
-		{"id":"1680c4cb9795476f","type":"text","text":"## 容許信賴\n* 行為人遵守生活一般規範時，有權信賴其他社會生活參與者亦會盡其規範上義務。在此一信任基礎下之行為客觀上不可歸責。\n* 本身違規的行為人能否主張容許信賴？\n\t* 如果行為人違反的規則與系爭行為風險高低無關，則仍可主張容許信賴。\n\t\t* e.g. 無照駕駛人 $\\rightarrow$ 因行人闖紅燈而發生車禍\n\t\t\t* 即使無照駕駛為違規，但也與系爭案件的風險實現無關。","x":540,"y":2110,"width":540,"height":360},
-		{"id":"a9fd9807ccbfcc63","type":"text","text":"## 容許風險\n* 追求更高度的生活利益，接受某些行為的附帶風險。\n* 運動規則、專業規範、行政法令等。","x":540,"y":1930,"width":540,"height":160},
-		{"id":"c4b3967d19bf992b","x":540,"y":2940,"width":540,"height":300,"type":"text","text":"## 被害人自我負責\n* 結果之實現，最後係由於被害人本身自傷或其他介入行為所導致，行為人不可歸責。\n* 分類\n\t* 被害人自陷風險：被害人自己陷自己進入高風險情境，但其本身仍排斥風險的實現。\n\t* 被害人自我危害：被害人自己對自己為傷害，也就是其本身接受風險的實現。"}
+		{"id":"5351bf732c5978f7","type":"text","text":"## 構成要件效力範圍內\n* 規範之目的以外之結果實現，不可歸責。\n* 縱使行為人違反了規範義務，但其所違反之規範，規範目的必須與最後實現的結果相關。","x":900,"y":2760,"width":540,"height":180,"color":"3"},
+		{"id":"c4b3967d19bf992b","x":900,"y":2970,"width":540,"height":380,"color":"3","type":"text","text":"## 被害人自我負責\n* 結果之實現，最後係由於被害人本身自傷或其他介入行為所導致，行為人不可歸責。\n* 分類：\n\t* 被害人自陷風險：被害人自己陷自己進入高風險情境，但其本身仍排斥風險的實現。\n\t* 被害人自我危害：被害人自己對自己為傷害，也就是其本身接受風險的實現。\n* 例外：\n\t* 在行為人與被害人資訊不對等之情況，或行為所製造之風險過高，行為人仍可能被歸責。"},
+		{"id":"4e10dcdb7e7cd42e","x":900,"y":3390,"width":540,"height":200,"color":"3","type":"text","text":"## 第三人自我負責\n* 結果之實現，最後係由於第三人之故意行為介入所導致，且此一介入行為乃是行為人所不可能預見時，行為人不可歸責。\n* 當第三人之後行為介入風險實現過程，即不能在將刑法上的歸責回溯到行為人的前行為，故又稱回朔禁止。"},
+		{"id":"bdb64448f2ff4eed","x":520,"y":3110,"width":240,"height":50,"color":"3","type":"text","text":"在構成要件效力範圍內"},
+		{"id":"a9fd9807ccbfcc63","type":"text","text":"## 容許風險\n* 追求更高度的生活利益，接受某些行為的附帶風險。\n* 運動規則、專業規範、行政法令等。","x":900,"y":1960,"width":540,"height":160,"color":"3"},
+		{"id":"1680c4cb9795476f","type":"text","text":"## 容許信賴\n* 行為人遵守生活一般規範時，有權信賴其他社會生活參與者亦會盡其規範上義務。在此一信任基礎下之行為客觀上不可歸責。\n* 本身違規的行為人能否主張容許信賴？\n\t* 如果行為人違反的規則與系爭行為風險高低無關，則仍可主張容許信賴。\n\t\t* e.g. 無照駕駛人 $\\rightarrow$ 因行人闖紅燈而發生車禍\n\t\t\t* 即使無照駕駛為違規，但也與系爭案件的風險實現無關。","x":900,"y":2140,"width":540,"height":360,"color":"3"},
+		{"id":"38416c525d8ddfc3","type":"text","text":"## 反常因果歷程\n* 行為與結果之間除具備條件因果關係，仍需具備***常態關聯性***，亦即行為與結果間沒有產生重大的因果偏異性。\n* 批評：此概念為相當因果關係之復活。\n\t* 回應：異常化事實該考慮，但不是在因果關係的層次。","x":900,"y":2520,"width":540,"height":218,"color":"3"},
+		{"id":"71c6a9211fade72d","x":520,"y":2290,"width":250,"height":60,"color":"3","type":"text","text":"製造法所不容許的風險"},
+		{"id":"155ca7bd49c64be1","x":520,"y":2599,"width":250,"height":60,"color":"3","type":"text","text":"風險必須實現"}
 	],
 	"edges":[
 		{"id":"dc753ca3aac91bf4","fromNode":"f2c2fbe1a8db735a","fromSide":"right","toNode":"1af4f0b15672cf62","toSide":"left"},
@@ -87,9 +91,14 @@
 		{"id":"ecc4bfe12f0b73f0","fromNode":"cdbc87eeb323eb75","fromSide":"bottom","toNode":"7b6461f3e286489c","toSide":"top"},
 		{"id":"98285bae51460196","fromNode":"cdbc87eeb323eb75","fromSide":"bottom","toNode":"e8c43fba037727c2","toSide":"top"},
 		{"id":"c66c6d7d24bc85dc","fromNode":"7b6461f3e286489c","fromSide":"right","toNode":"e8c43fba037727c2","toSide":"left"},
-		{"id":"b06f63a7431072a9","fromNode":"e8c43fba037727c2","fromSide":"bottom","toNode":"a9fd9807ccbfcc63","toSide":"left"},
-		{"id":"8a2a375481ef7dc3","fromNode":"e8c43fba037727c2","fromSide":"bottom","toNode":"38416c525d8ddfc3","toSide":"left"},
-		{"id":"6928eef72e227f09","fromNode":"e8c43fba037727c2","fromSide":"bottom","toNode":"1680c4cb9795476f","toSide":"left"},
-		{"id":"357c15e0e98b6749","fromNode":"e8c43fba037727c2","fromSide":"bottom","toNode":"5351bf732c5978f7","toSide":"left"}
+		{"id":"f99619e783aad4c8","fromNode":"bdb64448f2ff4eed","fromSide":"right","toNode":"5351bf732c5978f7","toSide":"left"},
+		{"id":"582e5cd1ac6d0591","fromNode":"bdb64448f2ff4eed","fromSide":"right","toNode":"c4b3967d19bf992b","toSide":"left"},
+		{"id":"e8dfc437ff5d913e","fromNode":"bdb64448f2ff4eed","fromSide":"right","toNode":"4e10dcdb7e7cd42e","toSide":"left"},
+		{"id":"a450bdaff918ccf9","fromNode":"e8c43fba037727c2","fromSide":"bottom","toNode":"bdb64448f2ff4eed","toSide":"left"},
+		{"id":"a7a2dfc065566c09","fromNode":"155ca7bd49c64be1","fromSide":"right","toNode":"38416c525d8ddfc3","toSide":"left"},
+		{"id":"795b46c082bd158c","fromNode":"71c6a9211fade72d","fromSide":"right","toNode":"1680c4cb9795476f","toSide":"left"},
+		{"id":"e822f528d61a1697","fromNode":"71c6a9211fade72d","fromSide":"right","toNode":"a9fd9807ccbfcc63","toSide":"left"},
+		{"id":"96c11eb1ede12446","fromNode":"e8c43fba037727c2","fromSide":"bottom","toNode":"71c6a9211fade72d","toSide":"left"},
+		{"id":"8228b2b58bd1effd","fromNode":"e8c43fba037727c2","fromSide":"bottom","toNode":"155ca7bd49c64be1","toSide":"left"}
 	]
 }
