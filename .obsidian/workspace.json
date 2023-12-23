@@ -15,9 +15,9 @@
               "state": {
                 "file": "刑法總則/刑法總則.canvas",
                 "viewState": {
-                  "x": 669.8550546174912,
-                  "y": 2052.6767030418137,
-                  "zoom": 0.10124050954017272
+                  "x": 746.6391131948104,
+                  "y": 2668.051237479202,
+                  "zoom": -0.8987594904598273
                 }
               }
             }
@@ -68,8 +68,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -154,13 +153,13 @@
   },
   "active": "0426628ce13f88c3",
   "lastOpenFiles": [
+    "刑法總則/構成要件該當性.md",
+    "刑法總則/因果關係.md",
+    "刑法總則/客觀歸責.md",
     "刑法總則/刑法總則.canvas",
     "容許風險.md",
-    "刑法總則/客觀歸責.md",
-    "刑法總則/構成要件該當性.md",
     "Lab",
     "刑法總則",
-    "刑法總則/因果關係.md",
     "Lab/paper/LIPIcs.WABI.2020.15/Canvas.canvas",
     "test.md",
     "conflict-files-obsidian-git.md",
