@@ -15,9 +15,9 @@
               "state": {
                 "file": "刑法總則/刑法總則.canvas",
                 "viewState": {
-                  "x": 1301.7434300867176,
-                  "y": 1480.9655670097175,
-                  "zoom": 0.5
+                  "x": 1317.9528679011169,
+                  "y": 1550.3921225725314,
+                  "zoom": 0.1666666666666664
                 }
               }
             }
@@ -137,7 +137,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 322.5
+    "width": 322.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -151,7 +152,7 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "0426628ce13f88c3",
+  "active": "28b5647538df946b",
   "lastOpenFiles": [
     "刑法總則/構成要件該當性.md",
     "刑法總則/因果關係.md",
