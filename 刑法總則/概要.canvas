@@ -57,7 +57,7 @@
 		{"id":"55ce753b3aba8153","type":"text","text":"危險犯","x":3018,"y":950,"width":250,"height":60},
 		{"id":"d43386ae49fa886b","type":"text","text":"具體危險犯","x":3389,"y":900,"width":250,"height":60},
 		{"id":"d15ee936d6183476","type":"text","text":"抽象危險犯","x":3389,"y":1020,"width":250,"height":60},
-		{"id":"c33082ea2d2b208e","x":-2460,"y":4080,"width":1140,"height":1720,"color":"2","type":"file","file":"未遂犯.md"}
+		{"id":"c33082ea2d2b208e","x":-2460,"y":4080,"width":1140,"height":2800,"color":"2","type":"file","file":"未遂犯.md"}
 	],
 	"edges":[
 		{"id":"dc753ca3aac91bf4","fromNode":"f2c2fbe1a8db735a","fromSide":"right","toNode":"1af4f0b15672cf62","toSide":"left"},
