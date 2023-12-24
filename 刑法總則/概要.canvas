@@ -57,7 +57,7 @@
 		{"id":"a0962989005ee38b","type":"text","text":"具體危險犯 $\\subset$ 結果犯","x":934,"y":74,"width":250,"height":60},
 		{"id":"d43386ae49fa886b","type":"text","text":"具體危險犯","x":1789,"y":74,"width":250,"height":60},
 		{"id":"55ce753b3aba8153","type":"text","text":"危險犯","x":1418,"y":124,"width":250,"height":60},
-		{"id":"c33082ea2d2b208e","x":2440,"y":-666,"width":1280,"height":940,"color":"2","type":"file","file":"未遂犯.md"}
+		{"id":"c33082ea2d2b208e","x":2440,"y":-666,"width":780,"height":1766,"color":"2","type":"file","file":"未遂犯.md"}
 	],
 	"edges":[
 		{"id":"dc753ca3aac91bf4","fromNode":"f2c2fbe1a8db735a","fromSide":"right","toNode":"1af4f0b15672cf62","toSide":"left"},
