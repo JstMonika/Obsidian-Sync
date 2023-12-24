@@ -61,7 +61,7 @@
 		{"id":"0850355539f3c6b6","type":"file","file":"刑法總則/刑法上之錯誤.md","x":-1240,"y":4080,"width":1140,"height":2360,"color":"1"},
 		{"id":"5c6bcdee171b363d","type":"file","file":"不作為犯.md","x":-40,"y":4080,"width":1240,"height":2360,"color":"#ff9eea"},
 		{"id":"404cc86ffa9aa9d8","x":1281,"y":4080,"width":1359,"height":2360,"type":"text","text":""},
-		{"id":"bf50b35f90004135","x":2720,"y":4080,"width":1200,"height":2360,"color":"#f1ee8e","type":"file","file":"犯罪競合理論.md"}
+		{"id":"bf50b35f90004135","x":2720,"y":4080,"width":1200,"height":2580,"color":"#f1ee8e","type":"file","file":"犯罪競合理論.md"}
 	],
 	"edges":[
 		{"id":"dc753ca3aac91bf4","fromNode":"f2c2fbe1a8db735a","fromSide":"right","toNode":"1af4f0b15672cf62","toSide":"left"},
