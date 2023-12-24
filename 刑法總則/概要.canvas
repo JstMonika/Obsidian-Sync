@@ -1,6 +1,6 @@
 {
 	"nodes":[
-		{"id":"f549f32ff19ba0d2","type":"group","x":-2480,"y":1360,"width":2101,"height":2270,"label":"客觀構成要件"},
+		{"id":"f549f32ff19ba0d2","type":"group","x":-2480,"y":1360,"width":2101,"height":2270,"color":"3","label":"客觀構成要件"},
 		{"id":"cdbc87eeb323eb75","type":"group","x":-641,"y":350,"width":2591,"height":750,"label":"犯罪的階層化審查"},
 		{"id":"51feacb846ce65b7","type":"group","x":2080,"y":160,"width":1899,"height":940,"label":"犯罪類型"},
 		{"id":"5affb18ae88ccee6","type":"group","x":-1955,"y":350,"width":1051,"height":454,"label":"簡介"},
@@ -57,7 +57,8 @@
 		{"id":"55ce753b3aba8153","type":"text","text":"危險犯","x":3018,"y":950,"width":250,"height":60},
 		{"id":"d43386ae49fa886b","type":"text","text":"具體危險犯","x":3389,"y":900,"width":250,"height":60},
 		{"id":"d15ee936d6183476","type":"text","text":"抽象危險犯","x":3389,"y":1020,"width":250,"height":60},
-		{"id":"c33082ea2d2b208e","x":-2460,"y":4080,"width":1140,"height":2800,"color":"2","type":"file","file":"未遂犯.md"}
+		{"id":"c33082ea2d2b208e","x":-2460,"y":4080,"width":1140,"height":2360,"color":"2","type":"file","file":"未遂犯.md"},
+		{"id":"0850355539f3c6b6","x":-1240,"y":4080,"width":1140,"height":1560,"color":"1","type":"file","file":"刑法上之錯誤.md"}
 	],
 	"edges":[
 		{"id":"dc753ca3aac91bf4","fromNode":"f2c2fbe1a8db735a","fromSide":"right","toNode":"1af4f0b15672cf62","toSide":"left"},
