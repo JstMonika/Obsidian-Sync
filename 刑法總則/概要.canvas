@@ -55,8 +55,8 @@
 		{"id":"f27089bf2cba3aa1","type":"text","text":"客觀構成要件","x":-204,"y":620,"width":250,"height":60,"color":"3"},
 		{"id":"e8bfd7762732362e","type":"text","text":"主觀構成要件","x":-204,"y":820,"width":250,"height":60,"color":"3"},
 		{"id":"36a260d6437c3d98","type":"text","text":"責任能力與期待可能性","x":1680,"y":650,"width":250,"height":60,"color":"4"},
-		{"id":"504d632d376e8ed0","x":-300,"y":1340,"width":978,"height":1720,"color":"3","type":"file","file":"刑法總則/主觀構成要件.md"},
-		{"id":"86b71b26e0ba7599","x":2984,"y":1340,"width":915,"height":820,"color":"4","type":"file","file":"刑法總則/有責性.md"}
+		{"id":"504d632d376e8ed0","type":"file","file":"刑法總則/主觀構成要件.md","x":-300,"y":1340,"width":978,"height":1720,"color":"3"},
+		{"id":"86b71b26e0ba7599","type":"file","file":"刑法總則/有責性.md","x":2984,"y":1340,"width":915,"height":1620,"color":"4"}
 	],
 	"edges":[
 		{"id":"dc753ca3aac91bf4","fromNode":"f2c2fbe1a8db735a","fromSide":"right","toNode":"1af4f0b15672cf62","toSide":"left"},
