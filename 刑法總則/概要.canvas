@@ -59,7 +59,7 @@
 		{"id":"d15ee936d6183476","type":"text","text":"抽象危險犯","x":3389,"y":1020,"width":250,"height":60},
 		{"id":"c33082ea2d2b208e","type":"file","file":"刑法總則/未遂犯.md","x":-2460,"y":4080,"width":1140,"height":2360,"color":"2"},
 		{"id":"0850355539f3c6b6","type":"file","file":"刑法總則/刑法上之錯誤.md","x":-1240,"y":4080,"width":1140,"height":1960,"color":"1"},
-		{"id":"5c6bcdee171b363d","x":-6,"y":4080,"width":826,"height":1080,"type":"file","file":"不作為犯.md"}
+		{"id":"5c6bcdee171b363d","x":-40,"y":4080,"width":826,"height":1080,"color":"#ff9eea","type":"file","file":"不作為犯.md"}
 	],
 	"edges":[
 		{"id":"dc753ca3aac91bf4","fromNode":"f2c2fbe1a8db735a","fromSide":"right","toNode":"1af4f0b15672cf62","toSide":"left"},
