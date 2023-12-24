@@ -11,14 +11,12 @@
             "id": "e31d828907d4f969",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "刑法總則/概要.canvas",
-                "viewState": {
-                  "x": 2999.6057084923236,
-                  "y": 5036.212418569485,
-                  "zoom": -2.164058215443066
-                }
+                "file": "刑法總則/犯罪參與基本理論.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -88,14 +86,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "刑法總則/概要.canvas",
+                "file": "刑法總則/犯罪參與基本理論.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -105,9 +103,9 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "刑法總則/概要.canvas",
+                "file": "刑法總則/犯罪參與基本理論.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -128,12 +126,11 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "刑法總則/概要.canvas"
+                "file": "刑法總則/犯罪參與基本理論.md"
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -154,20 +151,21 @@
   },
   "active": "e31d828907d4f969",
   "lastOpenFiles": [
-    "犯罪競合理論.md",
-    "不作為犯.md",
-    "Lab/Presentation Skills.md",
+    "刑法總則/未遂犯.md",
+    "刑法總則/犯罪參與基本理論.md",
     "刑法總則/概要.canvas",
     "刑法總則/有責性.md",
-    "刑法總則/刑法上之錯誤.md",
-    "刑法總則/主觀構成要件.md",
-    "刑法總則/未遂犯.md",
-    "刑法總則/違法性.md",
-    "容許風險.md",
-    "刑法總則/違法性cont..md",
     "刑法總則/構成要件該當性.md",
-    "刑法總則/因果關係.md",
     "刑法總則/客觀歸責.md",
+    "刑法總則/因果關係.md",
+    "刑法總則/違法性cont..md",
+    "刑法總則/刑法上之錯誤.md",
+    "刑法總則/不作為犯.md",
+    "刑法總則/犯罪競合理論.md",
+    "刑法總則/主觀構成要件.md",
+    "刑法總則/違法性.md",
+    "Lab/Presentation Skills.md",
+    "容許風險.md",
     "Lab",
     "刑法總則",
     "Lab/paper/LIPIcs.WABI.2020.15/Canvas.canvas",
