@@ -13,11 +13,11 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "刑法總則/刑法總則.canvas",
+                "file": "刑法總則/概要.canvas",
                 "viewState": {
-                  "x": 2120.465705974152,
-                  "y": 3177.0205695512177,
-                  "zoom": -1.0000000000000002
+                  "x": 2460.9947754704635,
+                  "y": 3462.315065045456,
+                  "zoom": 0.333333333333333
                 }
               }
             }
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "刑法總則/刑法總則.canvas",
+                "file": "刑法總則/概要.canvas",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "刑法總則/刑法總則.canvas",
+                "file": "刑法總則/概要.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "刑法總則/刑法總則.canvas"
+                "file": "刑法總則/概要.canvas"
               }
             }
           }
@@ -157,7 +157,7 @@
     "刑法總則/構成要件該當性.md",
     "刑法總則/因果關係.md",
     "刑法總則/客觀歸責.md",
-    "刑法總則/刑法總則.canvas",
+    "刑法總則/概要.canvas",
     "容許風險.md",
     "Lab",
     "刑法總則",
