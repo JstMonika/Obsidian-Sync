@@ -54,9 +54,9 @@
               "state": {
                 "file": "刑法總則/概要.canvas",
                 "viewState": {
-                  "x": -1312.30201558238,
-                  "y": 2031.8035290648254,
-                  "zoom": -0.6666668701171882
+                  "x": 6006,
+                  "y": 5271,
+                  "zoom": 0
                 }
               }
             }
@@ -91,7 +91,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "危險",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -202,9 +202,11 @@
   },
   "active": "a7d53c9ad10b642f",
   "lastOpenFiles": [
+    "刑法總則/不作為犯.md",
+    "刑法總則/主觀構成要件.md",
+    "刑法總則/概要.canvas",
     "刑法總則/犯罪參與基本理論 cont. 2.md",
     "刑法總則/犯罪參與基本理論 cont..md",
-    "刑法總則/概要.canvas",
     "刑法總則/犯罪參與基本理論.md",
     "刑法總則/違法性cont..md",
     "conflict-files-obsidian-git.md",
@@ -216,9 +218,7 @@
     "刑法總則/有責性.md",
     "刑法總則/客觀歸責.md",
     "刑法總則/因果關係.md",
-    "刑法總則/主觀構成要件.md",
     "刑法總則/刑法上之錯誤.md",
-    "刑法總則/不作為犯.md",
     "刑法總則",
     "Lab/paper/LIPIcs.WABI.2020.15/reference/2.Robinson-Foulds Supertrees.pdf",
     "Lab/paper/LIPIcs.WABI.2020.15/reference",
@@ -241,7 +241,6 @@
     "test.md",
     "paper/LIPIcs.WABI.2020.15/Notation.md",
     "attachments/ps_table_1.md",
-    "paper/LIPIcs.WABI.2020.15/Note.md",
     "paper/LIPIcs.WABI.2020.15/reference/2.Robinson-Foulds Supertrees.pdf",
     "Canvas.canvas",
     "attachments/rs-optimal.png",
