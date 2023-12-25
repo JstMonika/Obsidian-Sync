@@ -21,6 +21,32 @@
             }
           },
           {
+            "id": "3af74ff1aa2807fc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "刑法總則/犯罪參與基本理論 cont..md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d30120388c188dd5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "刑法總則/犯罪參與基本理論 cont. 2.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "a7d53c9ad10b642f",
             "type": "leaf",
             "state": {
@@ -28,14 +54,15 @@
               "state": {
                 "file": "刑法總則/概要.canvas",
                 "viewState": {
-                  "x": 3360.3768510604978,
-                  "y": 2382.0714487508735,
-                  "zoom": 0.4032648080959559
+                  "x": 2803.327573426356,
+                  "y": 5929.446719180816,
+                  "zoom": -2.8888889567057294
                 }
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -101,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "刑法總則/犯罪參與基本理論.md",
+                "file": "刑法總則/犯罪參與基本理論 cont. 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "刑法總則/犯罪參與基本理論.md",
+                "file": "刑法總則/犯罪參與基本理論 cont. 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "刑法總則/犯罪參與基本理論.md"
+                "file": "刑法總則/犯罪參與基本理論 cont. 2.md"
               }
             }
           },
@@ -173,8 +200,10 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "c14b751dc170adaf",
+  "active": "70d71edd60fecf4b",
   "lastOpenFiles": [
+    "刑法總則/犯罪參與基本理論 cont..md",
+    "刑法總則/犯罪參與基本理論 cont. 2.md",
     "刑法總則/概要.canvas",
     "刑法總則/犯罪參與基本理論.md",
     "刑法總則/違法性cont..md",
@@ -213,7 +242,6 @@
     "paper/LIPIcs.WABI.2020.15/Notation.md",
     "attachments/ps_table_1.md",
     "paper/LIPIcs.WABI.2020.15/Note.md",
-    "RawNote.md",
     "paper/LIPIcs.WABI.2020.15/reference/2.Robinson-Foulds Supertrees.pdf",
     "Canvas.canvas",
     "attachments/rs-optimal.png",
