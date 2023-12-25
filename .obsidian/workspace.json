@@ -11,13 +11,26 @@
             "id": "c14b751dc170adaf",
             "type": "leaf",
             "state": {
+              "type": "markdown",
+              "state": {
+                "file": "刑法總則/犯罪參與基本理論.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a7d53c9ad10b642f",
+            "type": "leaf",
+            "state": {
               "type": "canvas",
               "state": {
                 "file": "刑法總則/概要.canvas",
                 "viewState": {
-                  "x": 2113.2600867831275,
-                  "y": 6223.615882230746,
-                  "zoom": -0.5466535820073334
+                  "x": 3360.3768510604978,
+                  "y": 2382.0714487508735,
+                  "zoom": 0.4032648080959559
                 }
               }
             }
@@ -160,16 +173,16 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "70d71edd60fecf4b",
+  "active": "c14b751dc170adaf",
   "lastOpenFiles": [
+    "刑法總則/概要.canvas",
+    "刑法總則/犯罪參與基本理論.md",
     "刑法總則/違法性cont..md",
     "conflict-files-obsidian-git.md",
     "刑法總則.canvas",
     "刑法總則/違法性.md",
     "刑法總則/犯罪競合理論.md",
-    "刑法總則/犯罪參與基本理論.md",
     "刑法總則/構成要件該當性.md",
-    "刑法總則/概要.canvas",
     "刑法總則/未遂犯.md",
     "刑法總則/有責性.md",
     "刑法總則/客觀歸責.md",
