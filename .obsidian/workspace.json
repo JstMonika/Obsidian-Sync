@@ -11,8 +11,15 @@
             "id": "c14b751dc170adaf",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "canvas",
+              "state": {
+                "file": "刑法總則/概要.canvas",
+                "viewState": {
+                  "x": 2113.2600867831275,
+                  "y": 6223.615882230746,
+                  "zoom": -0.5466535820073334
+                }
+              }
             }
           }
         ]
@@ -81,6 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "刑法總則/犯罪參與基本理論.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "刑法總則/犯罪參與基本理論.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +127,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "刑法總則/犯罪參與基本理論.md"
+              }
             }
           },
           {
@@ -149,11 +160,11 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "c14b751dc170adaf",
+  "active": "70d71edd60fecf4b",
   "lastOpenFiles": [
+    "刑法總則/違法性cont..md",
     "conflict-files-obsidian-git.md",
     "刑法總則.canvas",
-    "刑法總則/違法性cont..md",
     "刑法總則/違法性.md",
     "刑法總則/犯罪競合理論.md",
     "刑法總則/犯罪參與基本理論.md",
