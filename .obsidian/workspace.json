@@ -11,15 +11,8 @@
             "id": "c14b751dc170adaf",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "刑法總則.canvas",
-                "viewState": {
-                  "x": 1184.149829096324,
-                  "y": 1885.4038691055266,
-                  "zoom": -2.336425456604088
-                }
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -88,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "刑法總則.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "刑法總則.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "刑法總則.canvas"
-              }
+              "state": {}
             }
           },
           {
@@ -162,12 +151,38 @@
   },
   "active": "c14b751dc170adaf",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "刑法總則.canvas",
+    "刑法總則/違法性cont..md",
+    "刑法總則/違法性.md",
+    "刑法總則/犯罪競合理論.md",
+    "刑法總則/犯罪參與基本理論.md",
+    "刑法總則/構成要件該當性.md",
+    "刑法總則/概要.canvas",
+    "刑法總則/未遂犯.md",
+    "刑法總則/有責性.md",
+    "刑法總則/客觀歸責.md",
+    "刑法總則/因果關係.md",
+    "刑法總則/主觀構成要件.md",
+    "刑法總則/刑法上之錯誤.md",
+    "刑法總則/不作為犯.md",
+    "刑法總則",
+    "Lab/paper/LIPIcs.WABI.2020.15/reference/2.Robinson-Foulds Supertrees.pdf",
+    "Lab/paper/LIPIcs.WABI.2020.15/reference",
+    "Lab/paper/LIPIcs.WABI.2020.15/Notation.md",
+    "Lab/paper/LIPIcs.WABI.2020.15/Canvas.canvas",
+    "Lab/paper/LIPIcs.WABI.2020.15/LIPIcs.WABI.2020.15.pdf",
+    "Lab/paper/LIPIcs.WABI.2020.15",
+    "Lab/attachments/rs-optimal.png",
+    "Lab/attachments/ps_table_1.md",
+    "Lab/Presentation Skills.md",
+    "Lab/paper",
+    "Lab/attachments",
+    "Lab",
     "因果關係.md",
     "paper/LIPIcs.WABI.2020.15/LIPIcs.WABI.2020.15.pdf",
     "paper/LIPIcs.WABI.2020.15/Canvas.canvas",
     "構成要件該當性.md",
-    "刑法總則.canvas",
-    "conflict-files-obsidian-git.md",
     "構成要件.md",
     "Presentation Skills.md",
     "test.md",
@@ -176,28 +191,9 @@
     "paper/LIPIcs.WABI.2020.15/Note.md",
     "RawNote.md",
     "paper/LIPIcs.WABI.2020.15/reference/2.Robinson-Foulds Supertrees.pdf",
-    "paper/LIPIcs.WABI.2020.15/RawNote.md",
-    "paper/LIPIcs.WABI.2020.15/reference/(2) Robinson-Foulds supertrees.md",
-    "paper/LIPIcs.WABI.2020.15/reference",
-    "未命名",
-    "SMCT.md",
-    "Untitled.md",
-    "paper/LIPIcs.WABI.2020.15",
     "Canvas.canvas",
-    "Excalidraw/Drawing 2023-12-01 16.31.26.excalidraw.md",
-    "paper/LIPIcs.WABI.2020.15.pdf",
-    "Excalidraw/Drawing 2023-12-01 16.28.03.excalidraw.md",
-    "Excalidraw/Drawing 2023-12-01 16.30.19.excalidraw.md",
-    "Excalidraw",
-    "TEST.md",
-    "test_annotator.md",
-    "paper",
     "attachments/rs-optimal.png",
-    "^1.md",
-    "最新進度.md",
     "attachments/靈堂.png",
-    "靈堂.png",
-    "attachments",
-    "attachment"
+    "靈堂.png"
   ]
 }
