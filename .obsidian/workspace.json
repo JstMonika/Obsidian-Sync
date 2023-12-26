@@ -4,65 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "aa184761c98a283b",
+        "id": "707a4ec292d17405",
         "type": "tabs",
         "children": [
           {
-            "id": "c14b751dc170adaf",
+            "id": "e31d828907d4f969",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "刑法總則/犯罪參與基本理論.md",
+                "file": "刑法總則/未遂犯.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "3af74ff1aa2807fc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "刑法總則/犯罪參與基本理論 cont..md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d30120388c188dd5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "刑法總則/犯罪參與基本理論 cont. 2.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a7d53c9ad10b642f",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "刑法總則/概要.canvas",
-                "viewState": {
-                  "x": -1312.30201558238,
-                  "y": 2031.8035290648254,
-                  "zoom": -0.6666668701171882
-                }
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -91,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "犯",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -108,7 +66,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -128,14 +87,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "刑法總則/概要.canvas",
-                "collapseAll": false,
+                "file": "刑法總則/未遂犯.md",
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -145,9 +104,9 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "刑法總則/概要.canvas",
+                "file": "刑法總則/未遂犯.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -158,7 +117,7 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": false
               }
             }
           },
@@ -168,24 +127,15 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "刑法總則/概要.canvas"
+                "file": "刑法總則/未遂犯.md"
               }
             }
-          },
-          {
-            "id": "0e481ee264c8e241",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 357.5,
+    "width": 322.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -200,52 +150,47 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "a7d53c9ad10b642f",
+  "active": "e31d828907d4f969",
   "lastOpenFiles": [
-    "刑法總則/犯罪參與基本理論 cont. 2.md",
-    "刑法總則/犯罪參與基本理論 cont..md",
     "刑法總則/概要.canvas",
+    "刑法總則/犯罪參與基本理論 cont. 2.md",
     "刑法總則/犯罪參與基本理論.md",
-    "刑法總則/違法性cont..md",
-    "conflict-files-obsidian-git.md",
-    "刑法總則.canvas",
-    "刑法總則/違法性.md",
-    "刑法總則/犯罪競合理論.md",
-    "刑法總則/構成要件該當性.md",
+    "刑法總則/犯罪參與基本理論 cont..md",
     "刑法總則/未遂犯.md",
     "刑法總則/有責性.md",
+    "刑法總則/構成要件該當性.md",
     "刑法總則/客觀歸責.md",
     "刑法總則/因果關係.md",
-    "刑法總則/主觀構成要件.md",
+    "刑法總則/違法性cont..md",
     "刑法總則/刑法上之錯誤.md",
     "刑法總則/不作為犯.md",
+    "刑法總則/犯罪競合理論.md",
+    "刑法總則/主觀構成要件.md",
+    "刑法總則/違法性.md",
+    "Lab/Presentation Skills.md",
+    "容許風險.md",
+    "Lab",
     "刑法總則",
+    "Lab/paper/LIPIcs.WABI.2020.15/Canvas.canvas",
+    "test.md",
+    "conflict-files-obsidian-git.md",
+    "Lab/paper/LIPIcs.WABI.2020.15/Notation.md",
     "Lab/paper/LIPIcs.WABI.2020.15/reference/2.Robinson-Foulds Supertrees.pdf",
     "Lab/paper/LIPIcs.WABI.2020.15/reference",
-    "Lab/paper/LIPIcs.WABI.2020.15/Notation.md",
-    "Lab/paper/LIPIcs.WABI.2020.15/Canvas.canvas",
-    "Lab/paper/LIPIcs.WABI.2020.15/LIPIcs.WABI.2020.15.pdf",
-    "Lab/paper/LIPIcs.WABI.2020.15",
-    "Lab/attachments/rs-optimal.png",
-    "Lab/attachments/ps_table_1.md",
-    "Lab/Presentation Skills.md",
-    "Lab/paper",
-    "Lab/attachments",
-    "Lab",
-    "因果關係.md",
-    "paper/LIPIcs.WABI.2020.15/LIPIcs.WABI.2020.15.pdf",
-    "paper/LIPIcs.WABI.2020.15/Canvas.canvas",
-    "構成要件該當性.md",
-    "構成要件.md",
-    "Presentation Skills.md",
-    "test.md",
-    "paper/LIPIcs.WABI.2020.15/Notation.md",
-    "attachments/ps_table_1.md",
     "paper/LIPIcs.WABI.2020.15/Note.md",
-    "paper/LIPIcs.WABI.2020.15/reference/2.Robinson-Foulds Supertrees.pdf",
+    "paper/LIPIcs.WABI.2020.15/RawNote.md",
+    "Lab/paper/LIPIcs.WABI.2020.15/LIPIcs.WABI.2020.15.pdf",
+    "未命名.md",
+    "Lab/paper/LIPIcs.WABI.2020.15",
+    "supertree.md",
+    "Lab/attachments/rs-optimal.png",
+    "Lab/paper",
     "Canvas.canvas",
-    "attachments/rs-optimal.png",
+    "^1.md",
+    "最新進度.md",
     "attachments/靈堂.png",
-    "靈堂.png"
+    "靈堂.png",
+    "Lab/attachments",
+    "attachment"
   ]
 }
