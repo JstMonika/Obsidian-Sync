@@ -15,4 +15,5 @@
 15. $\color{yellow}T_{init}$ : a center root that adjacent to every $x \in X$ and also to the root $r(t)$ for every extra subtree $t \in Extra(T_1) \cup Extra(T_2)$
 16. $\color{yellow}\mathcal{TR}(e)$ : the set of such extra subtrees attached to edge $e$
 17. $\color{yellow}\mathcal{TR}^*(\pi)$ : the set of extra subtrees that attach to edges in a <span style='color:red'>backbone tree(?)</span> that induce $\pi$ in either $T_1|_X$ or $T_2|_X$
-18. 
+18. $\color{yellow}\mathcal{BP}_i(Q)$ : the set of bipartitions in $C(T_i|_X)$ that have one side being strict subset of $Q$.
+19. 
