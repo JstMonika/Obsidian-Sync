@@ -29,9 +29,22 @@
                 "currentVersion": "1.5.3"
               }
             }
+          },
+          {
+            "id": "91fed7cdd628ac81",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -97,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lab/Presentation Skills.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lab/Presentation Skills.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lab/Presentation Skills.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -169,8 +182,9 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "6b0c6f036de97266",
+  "active": "91fed7cdd628ac81",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
     "Lab/paper/LIPIcs.WABI.2020.15/Canvas.canvas",
     "Lab/paper/LIPIcs.WABI.2020.15/Notation.md",
     "Lab/Presentation Skills.md",
@@ -182,7 +196,6 @@
     "刑法總則/犯罪參與基本理論 cont..md",
     "刑法總則/犯罪參與基本理論.md",
     "刑法總則/違法性cont..md",
-    "conflict-files-obsidian-git.md",
     "刑法總則.canvas",
     "刑法總則/違法性.md",
     "刑法總則/犯罪競合理論.md",
