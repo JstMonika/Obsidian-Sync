@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "aa184761c98a283b",
+        "id": "ca706e7439eef5bf",
         "type": "tabs",
         "children": [
           {
-            "id": "c14b751dc170adaf",
+            "id": "5a57476ff04a14e1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "刑法總則/犯罪參與基本理論.md",
+                "file": "Lab/Presentation Skills.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -21,48 +21,17 @@
             }
           },
           {
-            "id": "3af74ff1aa2807fc",
+            "id": "6b0c6f036de97266",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "release-notes",
               "state": {
-                "file": "刑法總則/犯罪參與基本理論 cont..md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d30120388c188dd5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "刑法總則/犯罪參與基本理論 cont. 2.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a7d53c9ad10b642f",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "刑法總則/概要.canvas",
-                "viewState": {
-                  "x": 6006,
-                  "y": 5271,
-                  "zoom": 0
-                }
+                "currentVersion": "1.5.3"
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -128,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "刑法總則/概要.canvas",
+                "file": "Lab/Presentation Skills.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "刑法總則/概要.canvas",
+                "file": "Lab/Presentation Skills.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "刑法總則/概要.canvas"
+                "file": "Lab/Presentation Skills.md"
               }
             }
           },
@@ -200,11 +169,15 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "a7d53c9ad10b642f",
+  "active": "6b0c6f036de97266",
   "lastOpenFiles": [
+    "Lab/paper/LIPIcs.WABI.2020.15/Canvas.canvas",
+    "Lab/paper/LIPIcs.WABI.2020.15/Notation.md",
+    "Lab/Presentation Skills.md",
+    "Lab/paper/LIPIcs.WABI.2020.15/LIPIcs.WABI.2020.15.pdf",
+    "刑法總則/概要.canvas",
     "刑法總則/不作為犯.md",
     "刑法總則/主觀構成要件.md",
-    "刑法總則/概要.canvas",
     "刑法總則/犯罪參與基本理論 cont. 2.md",
     "刑法總則/犯罪參與基本理論 cont..md",
     "刑法總則/犯罪參與基本理論.md",
@@ -222,13 +195,9 @@
     "刑法總則",
     "Lab/paper/LIPIcs.WABI.2020.15/reference/2.Robinson-Foulds Supertrees.pdf",
     "Lab/paper/LIPIcs.WABI.2020.15/reference",
-    "Lab/paper/LIPIcs.WABI.2020.15/Notation.md",
-    "Lab/paper/LIPIcs.WABI.2020.15/Canvas.canvas",
-    "Lab/paper/LIPIcs.WABI.2020.15/LIPIcs.WABI.2020.15.pdf",
     "Lab/paper/LIPIcs.WABI.2020.15",
     "Lab/attachments/rs-optimal.png",
     "Lab/attachments/ps_table_1.md",
-    "Lab/Presentation Skills.md",
     "Lab/paper",
     "Lab/attachments",
     "Lab",
