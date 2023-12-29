@@ -19,8 +19,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "2d9e6ea740d17d38",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.3"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -150,7 +161,7 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "e31d828907d4f969",
+  "active": "2d9e6ea740d17d38",
   "lastOpenFiles": [
     "刑法總則/概要.canvas",
     "刑法總則/犯罪參與基本理論 cont. 2.md",
