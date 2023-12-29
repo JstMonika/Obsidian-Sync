@@ -29,9 +29,20 @@
                 "currentVersion": "1.5.3"
               }
             }
+          },
+          {
+            "id": "f1cb1bbb00676647",
+            "type": "leaf",
+            "state": {
+              "type": "diff-view",
+              "state": {
+                "file": ".gitignore",
+                "staged": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -60,7 +71,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "犯",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,8 +88,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -98,7 +108,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "刑法總則/未遂犯.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +124,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "刑法總則/未遂犯.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -137,17 +145,23 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "刑法總則/未遂犯.md"
-              }
+              "state": {}
+            }
+          },
+          {
+            "id": "4aa1d651ef98ab0a",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 322.5,
-    "collapsed": true
+    "width": 465.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -161,8 +175,9 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "2d9e6ea740d17d38",
+  "active": "f1cb1bbb00676647",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
     "刑法總則/概要.canvas",
     "刑法總則/犯罪參與基本理論 cont. 2.md",
     "刑法總則/犯罪參與基本理論.md",
@@ -184,7 +199,6 @@
     "刑法總則",
     "Lab/paper/LIPIcs.WABI.2020.15/Canvas.canvas",
     "test.md",
-    "conflict-files-obsidian-git.md",
     "Lab/paper/LIPIcs.WABI.2020.15/Notation.md",
     "Lab/paper/LIPIcs.WABI.2020.15/reference/2.Robinson-Foulds Supertrees.pdf",
     "Lab/paper/LIPIcs.WABI.2020.15/reference",
