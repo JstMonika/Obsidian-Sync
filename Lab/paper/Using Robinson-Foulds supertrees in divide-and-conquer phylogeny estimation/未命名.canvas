@@ -1,0 +1,18 @@
+{
+	"nodes":[
+		{"id":"8a94d7857996d5b4","type":"text","text":"Lemma 8","x":-242,"y":-225,"width":250,"height":60},
+		{"id":"9c2851dbf5b8e04d","type":"text","text":"Lemma 10","x":-462,"y":321,"width":250,"height":60},
+		{"id":"c4a918eab3a92daf","type":"text","text":"Lemma 9","x":-587,"y":-25,"width":250,"height":60},
+		{"id":"60fef583fdb20b93","type":"text","text":"Lemma 11","x":-62,"y":485,"width":250,"height":60},
+		{"id":"ab3898b2fa0d1635","type":"text","text":"Proposition 1","x":338,"y":291,"width":250,"height":60},
+		{"id":"1b381b8f0449e2ca","type":"text","text":"Proposition 2","x":338,"y":-25,"width":250,"height":60},
+		{"id":"29aa813e03a6c82c","type":"text","text":"Lemma 6","x":-62,"y":-545,"width":250,"height":60,"color":"4"}
+	],
+	"edges":[
+		{"id":"1d66f6f3155f24ae","fromNode":"8a94d7857996d5b4","fromSide":"bottom","toNode":"c4a918eab3a92daf","toSide":"top"},
+		{"id":"8536b1b5e74c6a3f","fromNode":"8a94d7857996d5b4","fromSide":"bottom","toNode":"ab3898b2fa0d1635","toSide":"left"},
+		{"id":"8bf5253aa42de61b","fromNode":"29aa813e03a6c82c","fromSide":"left","toNode":"8a94d7857996d5b4","toSide":"top","color":"4"},
+		{"id":"3ccdcc2c5487dbcd","fromNode":"9c2851dbf5b8e04d","fromSide":"bottom","toNode":"60fef583fdb20b93","toSide":"left"},
+		{"id":"bbc6741fd24a8635","fromNode":"29aa813e03a6c82c","fromSide":"bottom","toNode":"60fef583fdb20b93","toSide":"top","color":"4"}
+	]
+}
